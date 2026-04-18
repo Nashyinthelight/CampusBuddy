@@ -1,0 +1,152 @@
+FAU IT HELPDESK & OFFICE OF INFORMATION TECHNOLOGY (OIT)
+Source: https://www.fau.edu/oit/ | https://helpdesk.fau.edu
+Main Phone: 561-297-3999
+Help Desk Portal: helpdesk.fau.edu
+Last Verified: April 18, 2026
+
+================================================================================
+OIT HELP DESK — CONTACT & HOURS
+================================================================================
+
+PHONE: 561-297-3999
+PORTAL: helpdesk.fau.edu
+SCHEDULE AN APPOINTMENT: techevents.fau.edu/appointments/helpdesk
+KNOWLEDGE BASE: helpdesk.fau.edu/TDClient/2061/Portal/KB/
+SUBMIT A TICKET: helpdesk.fau.edu
+
+BOCA RATON CAMPUS (Building CM, Room 138):
+  Monday – Thursday: 7:30 a.m. – 9:00 p.m.
+  Friday: 7:30 a.m. – 5:00 p.m.
+  Saturday & Sunday: 9:00 a.m. – 6:00 p.m.
+
+FORT LAUDERDALE CAMPUS (HEC 608):
+  Monday – Thursday: 11:00 a.m. – 8:00 p.m.
+  Friday & Saturday: 12:00 p.m. – 4:30 p.m.
+
+Walk-in support is also available at all partner campuses.
+
+CANVAS SUPPORT (24/7):
+  Call 561-297-3999 and select the Canvas support option
+  OR call the Canvas toll-free number: 855-691-7827
+  OR click the Help icon inside Canvas (bottom left of the global menu)
+    - Chat with Canvas Support
+    - Report a Problem (submits a ticket to Canvas Support)
+
+================================================================================
+KEY STUDENT IT RESOURCES
+================================================================================
+
+FAUNET ID:
+  Your FAUNet ID is your credential for accessing all FAU systems including:
+  MyFAU, Canvas, email, library databases, and campus Wi-Fi.
+  Set up or reset at: fau.edu/oit/services/accounts/
+
+FAU EMAIL:
+  All students receive an official FAU email account (@fau.edu).
+  Access via: outlook.office.com or mail.fau.edu
+  Used for all official university communications.
+  Email system info: fau.edu/oit/communication/e-mail-system/
+
+CANVAS (Learning Management System):
+  Canvas is FAU's official LMS for all courses — syllabi, assignments, grades,
+  announcements, and course materials.
+  Access: fau.edu/canvas
+  24/7 support via 561-297-3999 (Canvas option) or 855-691-7827
+
+MYFAU PORTAL:
+  Your central hub for registration, financial aid, grades, and account info.
+  Access: myfau.fau.edu
+  Mobile app: fau.edu/mobile
+
+WI-FI ON CAMPUS:
+  Network: FAU_WiFi (primary campus wireless network)
+  Coverage across all FAU campuses.
+  Wi-Fi info: fau.edu/oit/services/wireless/
+
+VPN (VIRTUAL PRIVATE NETWORK):
+  Required to access some FAU systems remotely (library databases, Banner, etc.)
+  Setup instructions: fau.edu/oit/security/vpn/
+
+VIRTUAL APPS:
+  Access FAU software remotely through Virtual Apps without needing campus access.
+  fau.edu/oit/instructional/virtual-apps/
+
+MICROSOFT 365:
+  FAU students have access to Microsoft 365 (Word, Excel, PowerPoint, Teams, etc.)
+  Available through your FAU account.
+
+GOOGLE WORKSPACE:
+  FAU provides Google Workspace access; note that storage limits apply.
+  Storage guidance: fau.edu/oit/google/
+
+================================================================================
+COMPUTER LABS
+================================================================================
+
+Open Computer Labs are available to all FAU students across campuses.
+Locations and hours: fau.edu/oit/instructional/computer-labs/
+
+Instructional Computer Labs are available for class use.
+Locations: fau.edu/oit/instructional/instructional-labs/
+
+================================================================================
+INFORMATION SECURITY
+================================================================================
+
+FAU IT Security resources to protect yourself online:
+  - How to Protect Yourself: fau.edu/oit/security/protect-yourself/
+  - Security FAQs: fau.edu/oit/security/security-faqs/
+  - Security Training: fau.edu/training/security/
+  - IT Policies: fau.edu/oit/security/policies/
+  - VPN setup: fau.edu/oit/security/vpn/
+
+================================================================================
+PARTNER CAMPUS TECHNOLOGY SERVICES
+================================================================================
+
+IT resources by campus:
+  - Davie: fau.edu/oit/partner-campuses/davie/
+  - Fort Lauderdale: fau.edu/oit/partner-campuses/fort-lauderdale/
+  - Jupiter: fau.edu/oit/partner-campuses/jupiter/
+
+Loaner Pool (equipment loans): fau.edu/oit/partner-campuses/loaner-pool/
+
+================================================================================
+FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q: How do I contact the IT Help Desk?
+A: Call 561-297-3999, submit a ticket at helpdesk.fau.edu, or walk in to
+   Building CM Room 138 on the Boca Raton campus during posted hours.
+
+Q: What are the IT Help Desk hours?
+A: Boca Raton: Mon-Thu 7:30am-9pm, Fri 7:30am-5pm, Sat-Sun 9am-6pm.
+
+Q: I'm locked out of Canvas — who do I call?
+A: Call 561-297-3999 and select the Canvas support option, or call
+   855-691-7827. Canvas support is available 24/7.
+
+Q: How do I access FAU software from home?
+A: Use Virtual Apps at fau.edu/oit/instructional/virtual-apps/ or connect
+   via VPN at fau.edu/oit/security/vpn/ to access campus resources remotely.
+
+Q: How do I reset my FAUNet ID password?
+A: Visit fau.edu/oit/services/accounts/ or call the Help Desk at 561-297-3999.
+
+Q: I forgot my MyFAU login — what do I do?
+A: Your MyFAU login uses your FAUNet ID. Contact the Help Desk at 561-297-3999
+   for account recovery assistance.
+
+Q: Is Microsoft Office free for FAU students?
+A: Yes. FAU students have access to Microsoft 365 through their FAU account.
+
+Q: Where are the computer labs on campus?
+A: Visit fau.edu/oit/instructional/computer-labs/ for a full list of open
+   computer lab locations and hours.
+
+Q: How do I report a phishing or suspicious email?
+A: Forward suspicious emails to FAU's security team and review guidance at
+   fau.edu/oit/security/protect-yourself/
+
+Q: What is the campus Wi-Fi network name?
+A: FAU_WiFi is the primary wireless network on all FAU campuses.
