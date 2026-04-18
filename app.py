@@ -47,7 +47,7 @@ st.markdown("""
         box-shadow: 0 4px 20px rgba(0,0,0,0.3);
     }
     /* Push content down so it doesn't hide under the fixed banner */
-    section.main > div:first-child { padding-top: 140px !important; }
+    section.main > div:first-child { padding-top: 200px !important; }
 
     .banner-owl { font-size: 3rem; animation: owlBob 2s ease-in-out infinite; }
     .banner-text h1 { margin: 0; font-size: 2rem; font-weight: 800; letter-spacing: 1px; }
