@@ -21,38 +21,32 @@ st.markdown("""
     [data-testid="stAppViewContainer"] { background: #f4f6fb; }
     [data-testid="stSidebar"] {
         background: #003366 !important;
-        padding-top: 80px !important;
-        z-index: 100 !important;
     }
     [data-testid="stSidebar"] * { color: white !important; }
     [data-testid="stSidebar"] hr { border-color: rgba(255,255,255,0.2) !important; }
 
     /* ── Remove default top padding so banner sits flush ── */
-    .block-container { padding-top: 0 !important; }
+    .block-container { padding-top: 0 !important; padding-left: 1rem !important; padding-right: 1rem !important; }
     [data-testid="stHeader"] { display: none !important; }
 
-    /* ── Full-width fixed banner ── */
+    /* ── Full-width banner (normal flow, not fixed) ── */
     .banner {
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        z-index: 999999;
         background: linear-gradient(120deg, #003366 0%, #004080 60%, #CC0000 100%);
         color: white;
-        padding: 1.5rem 2.5rem;
+        padding: 1rem 2rem;
         display: flex;
         align-items: center;
-        gap: 1.5rem;
+        gap: 1rem;
         box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+        margin: -6rem -100vw 1.5rem -100vw;
+        padding-left: calc(100vw - 100%);
+        padding-right: calc(100vw - 100%);
+        width: 200vw;
     }
-    /* Push content down so it doesn't hide under the fixed banner */
-    section.main > div:first-child { padding-top: 260px !important; }
-    [data-testid="stChatMessageContainer"] { padding-top: 20px !important; }
 
-    .banner-owl { font-size: 3rem; animation: owlBob 2s ease-in-out infinite; }
-    .banner-text h1 { margin: 0; font-size: 2rem; font-weight: 800; letter-spacing: 1px; }
-    .banner-text p  { margin: 0.2rem 0 0; opacity: 0.88; font-size: 0.95rem; }
+    .banner-owl { font-size: 2.2rem; animation: owlBob 2s ease-in-out infinite; }
+    .banner-text h1 { margin: 0; font-size: 1.6rem; font-weight: 800; letter-spacing: 1px; }
+    .banner-text p  { margin: 0.15rem 0 0; opacity: 0.88; font-size: 0.85rem; }
 
     /* ── Owl bob (idle) ── */
     @keyframes owlBob {
