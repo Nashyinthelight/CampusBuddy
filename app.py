@@ -19,7 +19,11 @@ st.markdown("""
 <style>
     /* ── Reset & base ── */
     [data-testid="stAppViewContainer"] { background: #f4f6fb; }
-    [data-testid="stSidebar"] { background: #003366 !important; }
+    [data-testid="stSidebar"] {
+        background: #003366 !important;
+        padding-top: 80px !important;
+        z-index: 100 !important;
+    }
     [data-testid="stSidebar"] * { color: white !important; }
     [data-testid="stSidebar"] hr { border-color: rgba(255,255,255,0.2) !important; }
 
@@ -33,7 +37,7 @@ st.markdown("""
         top: 0;
         left: 0;
         right: 0;
-        z-index: 9999;
+        z-index: 999999;
         background: linear-gradient(120deg, #003366 0%, #004080 60%, #CC0000 100%);
         color: white;
         padding: 1.2rem 2.5rem;
