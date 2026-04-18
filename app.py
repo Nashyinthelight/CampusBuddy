@@ -1,5 +1,5 @@
 """
-app.py — PolicyOwl Streamlit UI
+app.py — CampusBuddy Streamlit UI
 Run with: streamlit run app.py
 """
 
@@ -8,7 +8,7 @@ from query import get_answer
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="PolicyOwl — FAU Policy Assistant",
+    page_title="CampusBuddy — FAU Policy Assistant",
     page_icon="🦉",
     layout="centered",
 )
@@ -68,7 +68,7 @@ st.markdown("""
 # ── Header ────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="owl-header">
-    <h1>🦉 PolicyOwl</h1>
+    <h1>🦉 CampusBuddy</h1>
     <p>Your AI-Powered FAU Policy & Campus Assistant</p>
 </div>
 """, unsafe_allow_html=True)
@@ -81,9 +81,9 @@ if "pending_question" not in st.session_state:
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("### 🦉 About PolicyOwl")
+    st.markdown("### 🦉 About CampusBuddy")
     st.markdown(
-        "PolicyOwl answers questions about FAU's policies, academic deadlines, "
+        "CampusBuddy answers questions about FAU's policies, academic deadlines, "
         "and campus resources — powered by RAG and the Claude AI."
     )
     st.divider()

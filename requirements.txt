@@ -2,7 +2,7 @@ langchain
 langchain-community
 langchain-text-splitters
 chromadb
-google-generativeai
+anthropic
 sentence-transformers
 streamlit
 python-dotenv
