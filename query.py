@@ -6,14 +6,14 @@ import os
 from dotenv import load_dotenv
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
-import anthropic
+import google.generativeai as genai
 
 load_dotenv()
 
 CHROMA_DIR = "chroma_db"
 EMBED_MODEL = "all-MiniLM-L6-v2"
 TOP_K = 5
-MODEL = "claude-haiku-4-5-20251001"
+MODEL = "gemini-1.5-flash"
 
 SYSTEM_PROMPT = """You are PolicyOwl 🦉, the official AI policy and campus assistant for Florida Atlantic University (FAU). You help students, faculty, and staff quickly find accurate answers about FAU policies, academic deadlines, campus resources, and university life.
 
@@ -35,7 +35,7 @@ CATEGORIES YOU COVER:
 FAU SPIRIT: You are proud to be an FAU Owl. Keep responses helpful and professional."""
 
 _vectorstore = None
-_client = None
+_model = None
 
 
 def get_vectorstore():
@@ -53,11 +53,15 @@ def get_vectorstore():
     return _vectorstore
 
 
-def get_client():
-    global _client
-    if _client is None:
-        _client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
-    return _client
+def get_model():
+    global _model
+    if _model is None:
+        genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+        _model = genai.GenerativeModel(
+            model_name=MODEL,
+            system_instruction=SYSTEM_PROMPT,
+        )
+    return _model
 
 
 def get_answer(question: str) -> tuple[str, list[str]]:
@@ -94,15 +98,9 @@ def get_answer(question: str) -> tuple[str, list[str]]:
 
 Student question: {question}"""
 
-    client = get_client()
-    message = client.messages.create(
-        model=MODEL,
-        max_tokens=1024,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": user_message}],
-    )
-
-    return message.content[0].text, sources
+    model = get_model()
+    response = model.generate_content(user_message)
+    return response.text, sources
 
 
 if __name__ == "__main__":
