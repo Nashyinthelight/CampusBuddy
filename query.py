@@ -13,6 +13,26 @@ load_dotenv()
 CHROMA_DIR = "chroma_db"
 EMBED_MODEL = "all-MiniLM-L6-v2"
 TOP_K = 5
+MODEL = "claude-haiku-4-5-20251001"
+
+SYSTEM_PROMPT = """You are PolicyOwl 🦉, the official AI policy and campus assistant for Florida Atlantic University (FAU). You help students, faculty, and staff quickly find accurate answers about FAU policies, academic deadlines, campus resources, and university life.
+
+YOUR BEHAVIOR:
+- Answer questions using ONLY the policy excerpts and documents provided to you in each message.
+- Always cite your source clearly. Use this format: "According to [Policy Name / Document Name], ..."
+- If a question covers multiple policies, cite each one.
+- If the answer is not found in the provided excerpts, say: "I don't have that information in my current policy database. I recommend contacting the relevant FAU office directly."
+- Never make up information or answer from general knowledge — only use what's in the provided context.
+- Be friendly, clear, and concise. Students are busy — get to the point.
+- For deadlines, be specific with dates when they appear in the context.
+- For policies, summarize the key rule first, then add detail if needed.
+
+CATEGORIES YOU COVER:
+1. Academics — drop deadlines, registration, graduation, academic integrity, grade appeals
+2. Campus Life — dining, tutoring, IT policies, safety, alcohol/tobacco, housing
+3. Deadlines & Policies — tuition due dates, registration windows, security policies, compliance
+
+FAU SPIRIT: You are proud to be an FAU Owl. Keep responses helpful and professional."""
 
 _vectorstore = None
 _client = None
@@ -40,63 +60,64 @@ def get_client():
     return _client
 
 
-def answer_question(question: str) -> tuple[str, list[str]]:
+def get_answer(question: str) -> tuple[str, list[str]]:
     """
-    Returns (answer, [source_filenames])
+    Main entry point for app.py.
+    Returns (answer_text, [source_filenames])
     """
     vs = get_vectorstore()
     results = vs.similarity_search(question, k=TOP_K)
 
     if not results:
-        return "I couldn't find relevant information in FAU's policies.", []
+        return (
+            "I don't have that information in my current policy database. "
+            "I recommend contacting the relevant FAU office directly.",
+            [],
+        )
 
-    # Build context from retrieved chunks
     context_parts = []
     sources = []
     for doc in results:
         filename = doc.metadata.get("filename", "Unknown")
         category = doc.metadata.get("category", "")
-        context_parts.append(f"[Source: {filename} ({category})]\n{doc.page_content}")
+        context_parts.append(f"[Source: {filename} | Category: {category}]\n{doc.page_content}")
         if filename not in sources:
             sources.append(filename)
 
     context = "\n\n---\n\n".join(context_parts)
 
-    prompt = f"""You are PolicyOwl, an AI assistant that helps FAU (Florida Atlantic University) students find accurate information about university policies, academics, and campus life.
+    user_message = f"""Here are the relevant FAU policy excerpts for this question:
 
-Answer the student's question using ONLY the policy excerpts provided below. Be concise and helpful. If the answer isn't in the excerpts, say so honestly.
-
-Always mention which policy or source your answer comes from.
-
-POLICY EXCERPTS:
 {context}
 
-STUDENT QUESTION: {question}
+---
 
-ANSWER:"""
+Student question: {question}"""
 
     client = get_client()
     message = client.messages.create(
-        model="claude-haiku-4-5-20251001",
+        model=MODEL,
         max_tokens=1024,
-        messages=[{"role": "user", "content": prompt}],
+        system=SYSTEM_PROMPT,
+        messages=[{"role": "user", "content": user_message}],
     )
 
-    answer = message.content[0].text
-    return answer, sources
+    return message.content[0].text, sources
 
 
 if __name__ == "__main__":
-    print("PolicyOwl Query Test")
-    print("=" * 40)
-    test_questions = [
+    print("PolicyOwl — Quick Test")
+    print("=" * 50)
+    tests = [
         "What is FAU's policy on acceptable use of technology?",
         "When is the last day to drop a class?",
         "What are the dining options on campus?",
         "What is FAU's policy on artificial intelligence?",
+        "What is FAU's alcohol policy?",
     ]
-    for q in test_questions:
+    for q in tests:
         print(f"\nQ: {q}")
-        answer, sources = answer_question(q)
-        print(f"A: {answer[:300]}...")
-        print(f"Sources: {sources}")
+        answer, sources = get_answer(q)
+        print(f"A: {answer[:400]}")
+        print(f"Sources: {', '.join(sources)}")
+        print("-" * 50)
