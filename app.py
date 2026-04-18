@@ -147,7 +147,20 @@ st.markdown("""
 
 # ── Session state ─────────────────────────────────────────────────────────────
 if "messages" not in st.session_state:
-    st.session_state.messages = []
+    st.session_state.messages = [
+        {
+            "role": "assistant",
+            "content": (
+                "Hey there, Owl! 🦉 I'm **CampusBuddy**, your AI-powered FAU campus assistant.\n\n"
+                "I can help you with:\n"
+                "- 📚 **Academics** — drop deadlines, registration, graduation requirements\n"
+                "- 🏫 **Campus Life** — dining, tutoring, safety, IT policies\n"
+                "- 📋 **Deadlines & Policies** — tuition, security, compliance\n\n"
+                "Try clicking an example question on the left, or just ask me anything. Go Owls! 🔵🔴"
+            ),
+            "sources": [],
+        }
+    ]
 if "pending_question" not in st.session_state:
     st.session_state.pending_question = ""
 
