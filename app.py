@@ -48,7 +48,7 @@ st.markdown("""
         height: 70px;
     }
     /* Push content down so it doesn't hide under the fixed banner */
-    section.main > div:first-child { padding-top: 300px !important; }
+    section.main > div:first-child { padding-top: 90px !important; }
 
     .banner-owl { font-size: 3rem; animation: owlBob 2s ease-in-out infinite; }
     .banner-text h1 { margin: 0; font-size: 2rem; font-weight: 800; letter-spacing: 1px; }
@@ -153,20 +153,7 @@ st.markdown("""
 
 # ── Session state ─────────────────────────────────────────────────────────────
 if "messages" not in st.session_state:
-    st.session_state.messages = [
-        {
-            "role": "assistant",
-            "content": (
-                "Hey there, Owl! 🦉 I'm **CampusBuddy**, your AI-powered FAU campus assistant.\n\n"
-                "I can help you with:\n"
-                "- 📚 **Academics** — drop deadlines, registration, graduation requirements\n"
-                "- 🏫 **Campus Life** — dining, tutoring, safety, IT policies\n"
-                "- 📋 **Deadlines & Policies** — tuition, security, compliance\n\n"
-                "Try clicking an example question on the left, or just ask me anything. Go Owls! 🔵🔴"
-            ),
-            "sources": [],
-        }
-    ]
+    st.session_state.messages = []
 if "pending_question" not in st.session_state:
     st.session_state.pending_question = ""
 
