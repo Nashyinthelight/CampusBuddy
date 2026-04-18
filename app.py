@@ -40,15 +40,14 @@ st.markdown("""
         z-index: 999999;
         background: linear-gradient(120deg, #003366 0%, #004080 60%, #CC0000 100%);
         color: white;
-        padding: 0.8rem 2.5rem;
+        padding: 1.5rem 2.5rem;
         display: flex;
         align-items: center;
         gap: 1.5rem;
         box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-        height: 70px;
     }
     /* Push content down so it doesn't hide under the fixed banner */
-    section.main > div:first-child { padding-top: 90px !important; }
+    section.main > div:first-child { padding-top: 140px !important; }
 
     .banner-owl { font-size: 3rem; animation: owlBob 2s ease-in-out infinite; }
     .banner-text h1 { margin: 0; font-size: 2rem; font-weight: 800; letter-spacing: 1px; }
