@@ -1,0 +1,23 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14287
+TITLE: Security Awareness Training
+============================================================
+
+University Policy
+Office of the President
+University Policy
+10.6 Security Awareness Training
+Former Policy Number: 12.6
+APPLICABILITY:
+This policy is applicable to all FAU employees handling or processing information on behalf of the university.
+POLICY STATEMENT:
+Upon hire by Florida Atlantic University, employees that have been assigned an FAU NET ID must complete a basic security awareness course offered through the university within thirty (30) days of their start date, and annually thereafter. New employees and their supervisor will be contacted by the Office of Information Technology with instructions and directions on how to complete the training. The training will be provided as several small units allowing an employee to complete the training all at once or in small segments. Supervisors shall allow their employees time to complete the training during their normal working hours.
+Temporary employees and other employees that have not been assigned an FAU NET ID and require access to University data including, but not limited to, student data and financial information will be assigned a courtesy FAU NET ID and be required to complete the security training before access to University data is granted.
+Employees with FAU NET IDs employed by the university prior to the effective date of this policy are required to take the security awareness training within six (6) months of the effective date of the policy.
+Information on the Security Awareness Training provided by FAU is located at the following site:
+http://www.fau.edu/security
+SANCTIONS:
+Violations of this policy are grounds for disciplinary action up to and including termination or expulsion in accordance with applicable university and the Florida Board of Governors regulations and/or collective bargaining agreements.  Such disciplinary actions may also include reprimand or suspension.  Violations of this policy may also constitute grounds for terminating an employee’s use of University technology resources and other appropriate sanctions.
+INITIATING AUTHORITY:
+Associate Provost and Chief Information Officer
+Related Information
+Office of Information Technology - Information Security Overview

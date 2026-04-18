@@ -1,0 +1,28 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14282
+TITLE: University Administrative Data Systems
+============================================================
+
+University Policy
+Office of the President
+University Policy
+10.1 University Administrative Data Systems
+Former Policy Number: 12.1
+APPLICABILITY:
+The University community and anyone using the University’s technology-related resources.
+POLICY STATEMENT:
+The University recognizes the challenge of integrating emerging technologies with existing university administrative data systems to meet requirements of the University and the needs of the campuses, colleges, departments, and associated organizations.
+The purpose of this policy is to functionally integrate university administrative data systems across the campuses, colleges, departments, and associated organizations.  It is important that any software with university wide applications be reviewed and approved by the University’s Information Resource Management (IRM) organization so that existing software operational activities are not compromised.
+IRM shall coordinate, direct, and approve the design, purchase, implementation, and utilization of additional university administrative data systems resources across the campuses, colleges, and departments.
+The Associate Provost of IRM, working with the IRM Director, University Administrative Systems, will strive for the maximization of existing and future university administrative data systems.
+DEFINITIONS:
+University administrative data systems:  University administrative data systems mean any hardware and software that has university wide application or that will be dependent upon existing university wide software.
+PROCEDURES:
+IRM will develop plans and guidelines to implement this policy as appropriate, including:
+Researching, reviewing, and investigating emerging technologies for integration with or replacement of existing university administrative data systems resources;
+Providing direction and guidance required to ensure the functional integrity of all university administrative data systems resources;
+Providing flexibility in the university administrative data systems resources to allow the campuses, colleges, and departments to meet their disparate requirements; and
+Working with all campuses, colleges, and departments to maintain efficient administrative data systems and enhance their utility over time.
+RELATED INFORMATION:
+Direction and guidance for user conduct of University technology resources may be found in
+10.2 Acceptable Use of Technology Resources
+.

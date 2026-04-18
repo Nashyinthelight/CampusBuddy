@@ -1,0 +1,39 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14323
+TITLE: Prompt Payment
+============================================================
+
+University Policy
+Office of the President
+University Policy
+4.1 Prompt Payment
+Former Policy Number: 5.1
+APPLICABILITY:
+The purpose of this policy is to provide clear guidelines regarding the prompt payment of supplier invoices for goods, services and construction submitted to the University. These payments may be affiliated with the usage of purchase orders. This policy does not apply to payments or reimbursements to external committee members (ECM), student or employee refunds, purchasing card (pCard) payments and travel-related cash advances.
+DEFINITIONS:
+Invoice:
+A document or voucher format submitted to the University seeking reimbursement for goods or services rendered or provided. The invoice document provides the University the authority to reimburse the supplier. The invoice document must clearly reflect a description of the item or items or specific deliverable(s) that were completed. If the invoice has a corresponding purchase order, then, the correct purchase order must be reflected on the invoice as well. The invoice document shall have the supplier’s current contact information, including the remittance address.
+POLICY STATEMENT:
+The following provisions relate to all invoices, purchase orders, agreements and contracts for the purchase of goods and services, including construction:
+It is the policy of the University that payment of an invoice shall be made not later than forty (40) days after receipt of a properly completed invoice (to include vendor name, date, description of goods and services and amount due), receipt of goods at the location set forth on the purchase order or contract, and inspection and approval of the goods or services, except that in the case of a bona fide dispute, the vendor shall be notified of the dispute and payment made only for the amount not in dispute.
+If payment of an invoice is not issued within forty (40) days after receipt of a proper invoice and receipt, inspection and approval of the goods and services, the University, upon a valid request, may pay to the vendor, in addition to the amount of the invoice, an interest penalty at the rate established pursuant to Section 55.03(1), F.S., provided, however, that the interest penalty is in excess of one dollar ($1.00). The interest will be calculated on the unpaid balance from the expiration of the forty (40) day period until such time as the payment is issued to the vendor. The provisions of this paragraph apply only to undisputed amounts for which payment has been authorized. The provisions of this paragraph do not apply to payments made to governmental entities of the State of Florida such as local governments and political subdivisions.
+For purposes of determining the date an invoice was received, the University will be deemed to have received an invoice on the date on which an invoice in the amount(s) and price(s) stipulated in the purchase order or contract and any written change order is first received at the location designated by the University. In cases where the vendor invoice is incorrect and the vendor is required to furnish a revised invoice, the receipt date of the revised invoice will be used. In case of disputes regarding issues other than invoice amounts, the vendor will be contacted and documentation will be maintained as to the date(s) and person(s) contacted. The invoice receipt date will be the date final resolution is reached.
+The University may make partial payments to a vendor upon partial delivery of goods or services when a contractor request such partial payment, and such request is appropriate under the circumstances and is approved by the appropriate University representative.
+If the terms of the invoice provide a discount for payment in less than forty (40) days, the University shall preferentially process it and use all diligence to obtain the savings by complying with the invoice terms.
+If the specific provisions of federal or state law alter the timeframe for making contractually required payments to a vendor or contractor, the University will process payments to meet the timeframe.
+The University is authorized to advance payments for commodities and services, including, but not limited to, maintenance agreements and subscriptions, only to the extent such payments are necessary and reasonable, and only when it is in the best interest of the University to make payments in advance and it has been determined by the appropriate University representative that there is adequate protection to ensure that such commodities or services will be provided.
+The University may expedite payments of an invoice to vendors, designated as certified small and/or minority vendors, no later than twenty (20) days after receipt of a properly completed invoice, as described in Section IIa of this policy.
+Invoices received from contractors which have failed to supply the University with a complete and accurate Internal Revenue Service Form W-9 or other form that provides all necessary data to determine 1099 status will be deemed insufficient for payment until such information is received. Invoices will not be deemed received until contractor has supplied all data necessary to determine 1099 status.
+PROCEDURES:
+All invoices submitted for payment for goods and services, including construction, shall be in writing. Invoices for payment shall be submitted to the Controller’s Office, specifically
+Accounts Payable
+, in an electronic format. Additional information regarding invoice submission can be found on the Accounts Payable webpage. Information regarding payments to foreign suppliers is also available at the following website address:
+http://fau.edu/controller/tax-services/payment-toforeign-supplier-document
+.
+RELATED INFORMATION:
+University Regulation 6.008 Procurement
+;
+Purchasing Manual
+;
+Accounts Payable Manual
+INITIATING AUTHORITY:
+Vice President, Financial Affairs

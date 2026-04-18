@@ -1,0 +1,66 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14288
+TITLE: System and Data Classifications
+============================================================
+
+University Policy
+Office of the President
+University Policy
+10.7 System and Data Classifications
+Former Policy Number: 12.7
+APPLICABILITY/ACCOUNTABILITY:
+This policy applies to all University computing, network, and telecommunications resources or data, whether stored, hosted and/or maintained on University resources or third-party servers or sites.
+POLICY STATEMENT:
+This policy creates standard classifications for computing, network, and telecommunications resources and data to maximize consistent identification in University policies and procedures.  Classifications are based upon the impact of the system or data to the University as a whole, and not specifically to the Office of Information Technology (OIT) or other individual University units or departments. The classifications for systems and data are as follows:
+A.  System Classifications (Computer Systems, Servers, and Infrastructure):
+Level 1 System
+:
+Level 1 Systems are those systems that, if unavailable, create a significant impairment to the mission or general services of the University. These systems may be classified as critical during certain times, and a lower classification at other times. Level 1 Systems include those servers that provide University-wide email services, the University web presence, learning support for many students, administrative systems such as Banner, Workday, phone systems, or the core network.
+Level 2 System
+: Level 2 Systems are those systems that are generally expected to be available and provide important services to large portions of the campus community, but the University may still carry out its primary mission if the systems are not available. Level 2 Systems include instructional computers in multimedia classrooms or labs, or
+U
+niversity-wide servers that provide behind-the-scenes support for the University.
+Level 3 System
+: Level 3 Systems are those systems utilized by a single department and optionally shared with other departments or units which, if unavailable, create a significant impairment to the functioning of the department or providing important services to end users. Level 3 Systems include EMR or EHR systems used by Health-providers, and departmental streaming media servers providing recorded or streamed classroom instruction.
+Level 4 System
+:
+Level 4 Systems are those systems that are used by a small to moderate number of users and do not represent a significant impairment to the University mission or delivery of instruction by individual departments if they are unavailable. Level 4 systems include most departmental servers and user desktops.
+Computer systems and servers may provide multiple services that fit into multiple classifications.
+B.  Data Classification (Stored or Transmitted Data)
+Highly Sensitive Information (Level 1 Information):
+Level 1 Health Information:
+Level 1 Health Information is health-related information collected or received by the University that the University is under an obligation to protect. This information may include Protected Health Information (PHI or ePHI) protected under the Federal Health Insurance Portability and Accountability Act (HIPAA), health information protected by the Florida Information Protection Act (FIPA), or records relating to healthcare functions related to students and covered under the Federal Family Educational Rights and Privacy Act (FERPA).
+Level 1 Non-Health Information
+:  Level 1 Non-Health Information is highly sensitive information that may be used to open or access financial accounts belonging to another individual. This information includes personal identifiers, including Social Security Numbers, Bank Account Numbers, Passport Numbers, Credit Card Numbers, Driver License Numbers, and other information that can be used in conjunction with a person’s name to open a financial account.
+Level 1 Biometric Information
+: Level 1 Biometric Information is highly sensitive data based on physical personal identifiers that can be used to confirm an individual’s identity. Biometric identifiers covered in Level 1 Biometric Information include, but are not limited to, iris scans, fingerprints, voiceprints, and scans of hand or face geometry.
+Sensitive Information (Level 2 Information):
+Level 2 Information
+: Level 2 Information is information that the University has an obligation to protect under law or regulatory requirements not included covered in Level 1 Information. This includes, but is not limited to, information defined under FERPA, and the Gramm-Leach-Bliley Act (GLBA).
+Security-Related Information (
+Level 3 Information
+):
+Level 3
+Information
+: Level 3 Information is information that would adversely affect the institution’s physical or cyber security if disclosed but may not necessarily be protected by the University’s obligations under law or regulatory requirements. This may include information such as detailed building diagrams, risk assessments, fraud procedures, internal security procedures, and police procedures.
+Non-Sensitive Information (
+Level 4 Information
+):
+Level 4
+Information
+: Level 4 Information is any information that is created and stored during the normal course of business that is not protected by law or any other obligations of the University.
+Data may fall into multiple classification levels. Such data may include Social Security Numbers included in Level 1 Health Information.
+RELATED INFORMATION:
+Florida Information Protection Act;
+Federal Educational Rights and Privacy Act (FERPA) Information
+;
+Federal Health Insurance Portability and Accountability Act (HIPAA) Information
+;
+Federal Gramm-Leach-Bliley Act (GLBA) Information
+INITIATING AUTHORITY:
+Associate Provost and Chief Information Officer
+Related Information
+Federal Educational Rights and Privacy Act (FERPA) Information
+Federal Gramm-Leach-Bliley Act (GLBA) Information
+Federal Health Insurance Portability and Accountability Act (HIPAA) Information
+Florida Information Protection Act
+Office of Information Technology – IT Policies

@@ -1,0 +1,44 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14387
+TITLE: Email Communications
+============================================================
+
+University Policy
+Office of the President
+University Policy
+10.13 Email Communications
+Former Policy Number: 12.13
+APPLICABILITY:
+This policy applies to all FAU faculty and staff, including student employees.
+DEFINITIONS:
+Personal email account: Personal email accounts are email accounts that are not provided by the University including, but not limited to, gmail, hotmail, and yahoo accounts.
+University email account: A University email account is an email account that is provided by the University and has an email address that ends in
+fau.edu
+.
+Mass-email communications: Mass-email communications are emails sent to more than 50 individuals at one time.
+POLICY STATEMENT:
+Email is one of the most common forms of communication at the University. Email represents a potential compliance risk if certain safeguards are not taken to protect emails from loss or disclosure. These safeguards can only be effective if email resides on FAU-managed or approved systems.
+Email communications can pose risks to the compliance obligations of the University, including risks related to FERPA-protected communications related to student records, risks to HIPAA-protected information related to health records, information subject to public records release under Florida Sunshine laws, and potential concerns around export controls.
+By controlling the ways in which official communications are handled, FAU is better positioned to comply with these requirements by ensuring that providers have appropriate controls and agreements in place, as well as ensuring that data is stored in appropriate geographic locations.
+1. Personal Email Accounts
+Faculty and Staff may not intentionally utilize their personal email accounts to conduct University business or to send mail in their capacity as an FAU faculty or staff member.
+2. Email Forwarding
+Faculty and Staff email accounts may not be forwarded to a personal email account.
+3. Non-FAU Email Services
+Third-party email services may only be used to send email on behalf of the University with the written approval of the CIO (Chief Information Officer) or designee and Public Affairs. Third-party email services include services that are not provided by FAU and used to send blast emails or marketing emails utilizing third-party software.
+4. Mass-email Communications
+Mass-email communications are subject to the restrictions defined in University policies, including the
+Acceptable use of Technology Resources policy
+.
+The University provides a listserv that can be used to send email to large numbers of users. Limits on how many people can be included in an email when sending a message using an email account directly do not exist when using the University listserv software. The University listserv software also provides users with a method to opt-out of email communications, which may be required by laws or regulations.
+Third-party email services may also be used for this purpose subject to the requirements earlier in this policy under “Non-FAU Email Services.”
+Email Signature Lines
+Email signature lines may only contain University contact information and are subject to the restrictions in the
+Acceptable use of Technology Resources policy
+.
+SANCTIONS
+Violations of these policies described herein by an employee are grounds for disciplinary action up to and including termination in accordance with applicable University and the Florida Board of Governor’s regulations and/or collective bargaining agreements. Such disciplinary actions may also include reprimand or suspension. Violations of these policies by volunteers or contractors are grounds for terminating their access rights and other appropriate sanctions.
+Disciplinary or other action taken by the University does not preclude the possibility of criminal actions against an individual violating this policy. The filing of criminal charges similarly does not preclude action by the University.
+INITIATING AUTHORITY
+Associate Provost and Chief Information Officer
+Related Information
+Acceptable Use of Technology Resources – Section   Policy

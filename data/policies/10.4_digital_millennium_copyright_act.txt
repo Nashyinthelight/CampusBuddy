@@ -1,0 +1,35 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14285
+TITLE: Digital Millenium Copyright Act
+============================================================
+
+University Policy
+Office of the President
+University Policy
+10.4 Digital Millenium Copyright Act
+Former Policy Number: 12.4
+APPLICABILITY:
+This policy is applicable to all users of University technology resources, including without limitation, telecommunications, networks, email, computing resources and instructional technology resources.
+POLICY STATEMENT:
+I. OVERVIEW
+The
+Digital Millennium Copyright Act
+(DMCA) is a federal law that addresses a number of significant copyright and copyright-related issues. A summary of the DMCA from the U.S. Copyright Office can be found at the following link:
+www.copyright.gov/legislation/dmca.pdf
+.  FAU, as an online service provider, is subject to the provisions of the DMCA.  FAU will expeditiously investigate any alleged case of infraction on copyrighted material available on its computing network and take appropriate action.  The designated
+DMCA agent for FAU
+is the Associate Vice President and Chief Information Officer.  This policy is intended to provide notice of FAU action in the event a DMCA complaint is received regarding an alleged copyright infraction on the FAU computing network.
+II. POLICY
+Under the DMCA, a copyright owner or an authorized agent may lawfully identify infringing internet traffic and send a complaint to FAU as the online service provider.   FAU will provide the identity of the FAU network user in response to a valid subpoena or other lawful order.
+Upon receipt of a DMCA Infringement Notice pursuant to section 512(c)(3)(A) of the DMCA, FAU will act expeditiously to remove, or disable access to, the alleged infringing material.   If appropriate, FAU shall restore access to the alleged infringing material as provided in section 512(g)(1) of the DMCA.
+DMCA Violation Penalties:
+Students:
+On a first offense, students will have their network connection disabled until the student is counseled regarding the DMCA by an IRM staff member.
+On second and subsequent offenses, students will have their network connection disabled and will be referred to the Office of Student Affairs for potential disciplinary action.  Network access will remain disabled until reinstatement is recommended by the Office of Student Affairs.
+Employees:
+On a first offense, the employee’s supervisor will be notified of the violation and the employee will be counseled regarding the DMCA by an IRM staff member.
+On second and subsequent offenses, the employee’s supervisor and the Department of Human Resources will be notified of the violation.  If the employee needs continued network access for his or her job responsibilities, the employee’s supervisor, in consultation with the Department of Human Resources, should present a reasonable plan of action to the Associate Vice President and Chief Information Officer to prevent future DMCA violations by the employee on FAU’s network.
+III. SANCTIONS
+Violations of the policies and laws described herein by an employee or student are grounds for disciplinary action up to and including termination or expulsion in accordance with applicable university and the Florida Board of Governors regulations and/or collective bargaining agreements.  Such disciplinary actions may also include reprimand or suspension.  Violations of these policies and laws by any users are grounds for terminating their use of University technology resources and other appropriate sanctions.
+Disciplinary or other action by the university does not preclude the possibility of criminal charges, as appropriate.  The filing of criminal charges similarly does not preclude action by the university.
+INITIATING AUTHORITY:
+Associate Vice President, Information Resource Management and Chief Information Officer

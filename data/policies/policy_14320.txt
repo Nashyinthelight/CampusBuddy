@@ -1,0 +1,134 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14320
+TITLE: Identity Theft Prevention Program
+============================================================
+
+University Policy
+Office of the President
+University Policy
+4.6 Identity Theft Prevention Program
+Former Policy Number: 5.6
+APPLICABILITY:
+This policy is applicable to all members of the university community, including all employees, contractors, consultants, temporary workers, and service providers, including all personnel affiliated with third parties.
+POLICY STATEMENT:
+I. Purpose
+To establish an Identity Theft Prevention Program ("Program") designed to detect, prevent and mitigate identity theft in connection with the opening of a covered account or an existing covered account and to provide continued administration of the Program in compliance with 16 C.F.R. Part 681.
+This Program enables Florida Atlantic University (“FAU” or “University”) to protect existing accounts, reduce risk from identity fraud, and minimize potential damage to FAU from fraudulent new accounts. The Program will help FAU:
+Identify risks that signify potentially fraudulent activity within new or existing covered accounts;
+Detect risks when they occur in covered accounts;
+Respond to risks to determine if fraudulent activity has occurred and act if fraud has been attempted or committed; and
+Update the Program periodically, including reviewing the accounts that are covered and the identified risks that are part of the Program.
+II. Definitions
+Identity theft
+means fraud committed or attempted using the identifying information of another person without authority.
+A
+covered account
+means all financial accounts or loans that are administered by FAU.
+A
+red flag
+means a pattern, practice or specific activity that indicates the possible existence of identity theft.
+Personally identifiable information
+includes the following items whether stored in electronic or printed format: first, middle, or last name, legal name, date of birth, addresses, telephone or wireless numbers, social security number, government-issued identification number, passport number, maiden name, account number, credit card information (number, expiration date, name, address), and emergency contact information.
+III. The Program
+FAU establishes an Identity Theft Prevention Program to detect, prevent and mitigate identity theft. The Program shall include reasonable policies and procedures to:
+Identify relevant red flags for covered accounts it offers or maintains and incorporate those red flags into the Program;
+Detect red flags that have been incorporated into the Program;
+Respond appropriately to any red flags that are detected to prevent and mitigate identity theft; and
+Ensure the Program is updated periodically to reflect changes in risks to covered account holders.
+IV. Administration of the Program
+The FAU Office of Financial Affairs, with the assistance of the Office of the General Counsel, shall be responsible for the development, implementation, oversight and continued administration of the Program.  Oversight responsibility of the Program is delegated to the Controller.  Operational responsibility of the Program is delegated to the applicable supervising authorities for FAU colleges, departments or divisions with covered accounts.
+V. Identification of Relevant Red Flags
+In consideration of the types of covered accounts offered or maintained by FAU, the methods provided to open and access covered accounts, and FAU’s previous experience with identity theft, FAU identifies the following red flags in each of the following categories:
+Alerts, notifications, or other warnings received from consumer reporting agencies or service providers, including:
+A fraud or activity duty alert included with a consumer report;
+A notice of credit freeze from a consumer reporting agency in response to a request for a consumer report;
+A notice of address discrepancy from a consumer reporting agency;
+Notice or report from a credit agency of an active duty alert for an applicant;
+Indication from a credit report of activity that is inconsistent with an applicant’s usual pattern or activity.
+The presentation of suspicious documents, such as:
+Documents provided for identification that appear to have been altered or forged;
+The photograph or physical description on the identification is not consistent with the appearance of the applicant or account holder presenting the identification;
+Other information on the identification is not consistent with information provided by the person opening a new covered account or account holder presenting the identification;
+An application appears to have been altered or forged, or gives the appearance of having been destroyed and re-assembled.
+The presentation of suspicious personal identifying information, including:
+Personal identifying information provided is inconsistent when compared against external information sources used by FAU;
+Personal identifying information provided is associated with known fraudulent activity as indicated by internal or third-party sources used by FAU;
+The social security number provided is the same as that submitted by another account holder;
+The address or telephone number provided is the same as or similar to the address or telephone number submitted by an unusually large number of other account holders or other persons opening accounts;
+The account holder or the person opening the covered account fails to provide all required personal identifying information on an application or in response to notification that the application is incomplete;
+Personal identifying information provided is not consistent with personal identifying information that is on file with FAU;
+When using security questions, the person opening the covered account cannot provide authenticating information beyond that which generally would be available from a wallet or consumer report.
+The unusual use of, or other suspicious activity related to, a covered account, such as:
+Shortly following the notice of a change of address for a covered account, FAU receives a request for new, additional, or replacement goods or services, or for the addition of authorized users on the account;
+A new revolving credit account is used in a manner commonly associated with known patterns of fraud patterns;
+A covered account is used in a manner that is not consistent with established patterns of activity on the account;
+A covered account that has been inactive for a reasonably lengthy period of time is used;
+Mail sent to the account holder is returned repeatedly as undeliverable although transactions continue to be conducted in connection with the account holder's covered account;
+FAU is notified the account holder is not receiving paper account statements;
+FAU is notified of unauthorized charges or transactions in connection with a covered account;
+FAU receives notice from account holders, victims of identity theft, law enforcement authorities, or other persons regarding possible identity theft in connection with covered accounts held by FAU;
+FAU is notified by an account holder, a victim of identity theft, a law enforcement authority, or any other person that it has opened a fraudulent account for a person engaged in identity theft.
+VI. Detection of Red Flags
+The Program shall address the detection of red flags in connection with the opening of covered accounts and existing covered accounts, such as by:
+New Accounts and Student Enrollment.  In order to detect any of the Red Flags identified above associated with new accounts and the enrollment of a student, University personnel will take the following steps to obtain and verify the identity of the person opening the account:
+Require certain identifying information such as name, date of birth, academic records, home address or other identification; and
+Verify the student’s identity at time of issuance of student identification card (review of driver’s license or other government-issued photo identification).
+Existing Accounts.  In order to detect any of the Red Flags identified above for an existing Covered Account, University personnel will take the following steps to monitor transactions on an account:
+Verify identification if information is requested in person, via telephone, via facsimile, or via email;
+Verify the validity of requests to change billing addresses by mail or email and provide the account holder a reasonable means of promptly reporting incorrect billing address changes; and
+Verify changes in banking information given for billing and payment purposes.
+VII. Responding to Red Flags
+Once potentially fraudulent activity is detected, an employee must act quickly as a rapid appropriate response can protect from damages and loss. The employee must gather all related documentation and write a description of the situation. This information must be presented to the applicable supervising authority for determination. The designated authority will complete additional authentication to determine whether the attempted transaction was fraudulent or authentic.
+Appropriate responses to the detection of red flags include:
+Notify law enforcement;
+Monitor a covered account for evidence of identity theft;
+Contact the account holder;
+Change any passwords, security codes or other security devices that permit access to a covered account;
+Reopen a covered account with a new account number;
+Not open a new covered account;
+Close an existing covered account, and/or
+Determine no response is warranted under the particular circumstances.
+In order to further prevent the likelihood of Identity Theft occurring with respect to Covered Accounts, the University will take the following steps with respect to its internal operating procedures to protect account holder identifying information:
+Ensure that its websites are secure or provide clear notice that a website is not secure;
+Ensure complete and secure destruction of paper documents and computer files containing account holder account information when a decision has been made to no longer maintain such information;
+Ensure that office computers with access to Covered Account information are password protected;
+Avoid use of social security numbers;
+Ensure computer virus protection is up to date; and
+Require and keep only the kinds of account holder information that are necessary for University purposes.
+VIII. Periodic Updates to the Program
+At periodic intervals established in the Program, or as required, the Program will be re-evaluated to determine whether all aspects of the Program are up to date and applicable in the current business environment.
+Periodic reviews will include an assessment of which accounts are covered by the Program.
+As part of the review, red flags may be revised, replaced or eliminated. Defining new red flags may also be appropriate.
+Actions to take in the event that fraudulent activity is discovered may also require revision to reduce damage to FAU and its account holders.
+IX. Program Updates
+The Office of Financial Affairs will periodically review and update this Program to reflect changes in risks to account holders and the soundness of the University from Identity Theft. In doing so, the University's experiences with Identity Theft situations, changes in Identity Theft methods, changes in Identity Theft detection and prevention methods, and changes in the University's business arrangements with other entities shall be considered.  After considering these factors, the Office of Financial Affairs will determine whether changes to the Program, including the listing of Red Flags and additional training, are warranted. If warranted, the Program shall be updated appropriately.
+X. Duties Regarding Address Discrepancies
+FAU may reasonably confirm that an address is accurate by any of the following means:
+Verification of the address with the account holder;
+Review of FAU’s records;
+Verification of the address through third party sources; or
+Other reasonable means.
+If an accurate address is confirmed, FAU shall furnish the account holder's address to the consumer reporting agency from which it received the notice of address discrepancy if:
+FAU establishes a continuing relationship with the account holder; and
+FAU regularly and in the ordinary course of business, furnishes information to the consumer agency.
+XI. Security of Personal Identifying Information Is Protected
+All paper documents or files, as well as CDs, floppy disks, zip drives, flash drives, tapes, and backups containing personally identifiable information will be stored in a locked area.
+Visitors who must enter areas where sensitive files are kept must be escorted by an employee of FAU.
+No visitor should be given any entry codes or allowed unescorted access to areas where personally identifiable information is stored.
+Access to personally identifiable information will be limited to those with a legitimate business need for such information.
+Information Resource Management (IRM) shall establish best practices and procedures for securing personal information on servers and computers that house personally identifiable information.
+XII. Staff Training
+Staff training shall be conducted for all employees, officials and contractors for whom it is reasonably foreseeable that they may come into contact with accounts or personally identifiable information that may constitute a risk to FAU or its account holders.
+The Office of Financial Affairs is responsible for ensuring identity theft guidelines for all supervising authorities.
+Employees should receive training as necessary to effectively implement the Program.
+XIII. Security Practices of Contractors and Service Providers
+The Program shall exercise appropriate and effective oversight of service provider arrangements.
+It is the responsibility of FAU to ensure that the activities of all service providers and contractors are conducted in accordance with reasonable policies and procedures designed to detect, prevent, and mitigate the risk of identity theft.
+A service provider or contractor that maintains its own Identity Theft Prevention Program, consistent with the guidance of the red flag rules (16 C.F.R. Part 681) and validated by appropriate due diligence, may be considered to be meeting these requirements.
+Any specific requirements should be specifically addressed in appropriate contract arrangements.
+Contractors and service providers must notify FAU of any security incidents experienced, even if such incidents may not have led to any actual compromise of FAU’s data.
+XIV. Disposal of Personal Identifying Information
+When documents contain personal identifying information are discarded, they should be placed inside a locked shred bin or immediately shredded.
+When disposing of old computers and portable storage devices containing personal identifying information, a disc wiping utility program should be used.
+Any CD-rom, DVD-rom, floppy disk, or flash drive containing personal identifying information should be disposed of by shredding, punching holes in, or incineration.
+INITIATING AUTHORITY:
+Senior Vice President, Finance & Administration

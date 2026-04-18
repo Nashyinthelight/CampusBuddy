@@ -1,0 +1,110 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14278
+TITLE: Unmanned Aircraft Systems (UAS)
+============================================================
+
+University Policy
+Office of the President
+University Policy
+3.1.8 Unmanned Aircraft Systems (UAS)
+Former Policy Number: 10.1
+APPLICABILITY:
+This policy is applicable to all members of the public and the University community that seek to operate an unmanned aircraft system (UAS): (i) on University Property, (ii) at any University-sponsored event, or (iii) in connection with any University activity, including without limitation University research, educational or business purposes (collectively, (i), (ii) and (iii) are referred to herein as “University-Related UAS Activity”).
+DEFINITIONS:
+Certificate of Waiver or Authorization (COA)
+: The COA is an authorization issued by the Air Traffic Organization to a public operator for a specific UAS activity.
+14 CFR - Part 107:
+This regulation contains the rules for non-hobbyist small, unmanned aircraft system (UAS) operations and covers a broad spectrum of commercial uses for drones weighing less than 55 pounds including operating requirements, pilot certifications, airframe (UAS) certifications, privacy considerations and other relevant requirements.
+Class G Airspace:
+Class G airspace includes all airspace below 14,500 feet not otherwise classified as controlled. There are no entry or clearance requirements for class G airspace.
+Low Altitude Authorization and Notification Capability (LAANC):
+this process represents a collaboration between the FAA and the aeronautical Industry. It directly supports UAS integration into the airspace. The use of a supported LAANC app allows the following to occur: (1) to allow drone pilots access to controlled airspace at or below 400 feet; (2) Awareness of where pilots can and cannot fly; and (3) provides Air Traffic professionals with visibility into where and when drones are operating. Please see:
+https://www.faa.gov/uas/programs_partnerships/data_exchange/
+Facility Authorized Authority – The Director or Chair responsible for oversight of the FAU services provided in that building/location.
+Reasonable Expectation of Privacy:
+Locations where there is an objective expectation of privacy. Examples include, but are not limited to, restrooms, locker rooms, residence halls, and health treatment and medical facilities. UAS shall not be used to monitor or record sensitive institutional or personal information which may be found, for example, on an individual’s workspaces, on computer or other electronic devices.
+Remote Pilot in Command (RPIC):
+This is the sole person responsible for the operation of a UAS.
+Small Unmanned Aircraft System (sUAS):
+An Unmanned Aircraft system that includes a UAS that has a takeoff weight of less than 55lbs.
+University Property:
+Any land, grounds, buildings, or facilities, including without limitation streets, sidewalks and paths, owned, leased, controlled, occupied, or used by the University for University business.
+Unmanned Aircraft System (UAS):
+The FAA defines UAS as “the unmanned aircraft (UA) and all of the associated support equipment, control station, data links, telemetry, communications and navigation equipment, etc., necessary to operate the unmanned aircraft. The UA is the flying portion of the system, flown by a pilot via a ground control system or autonomously through the use of an on-board computer, communications links, and any additional equipment that is necessary for the UA to operate safely” pursuant to Section 331(9) of the FAA Modernization and Reform Act of 2012 (Pub. L. 112-95).
+POLICY STATEMENT:
+Operation of a UAS is regulated by the Federal Aviation Administration (FAA) and by federal, state, and local laws, regulations, and policies (collectively referred to herein as “Legal Authorities”). Legal Authorities include but are not limited to: FAA airmen certificate requirements, state law governing the safe operation of aircraft, and University regulations and policies regarding access and use of university property. Anyone who seeks to engage in University-Related UAS Activity must first receive approval in accordance with this policy. This policy applies to any UAS, either purchased with university or personal funds, that are used to conduct university business. .
+Engaging in University-Related UAS Activity is not permitted until the applicant has provided all of the required documentation to Environmental Health & Safety (EH&S) and has received approval to proceed. A UAS may not be used to monitor or record activities where there is a reasonable expectation of privacy. No UAS flights are allowed within five (5) miles of an airport or Helipad unless pre-approval is received from the tower and/or FAA. Recreational UAS Activity is strictly prohibited on all FAU campuses.
+Government use exceptions for UAS activity include the ability to provide law enforcement with an aerial perspective of a crowd of 50 people or more provided that the law enforcement agency has policies and procedures in place that include guidelines for the following: the agency’s use of a drone; for the proper storage, retention, and release of any images or video captured by the drone; and, that addresses the personal safety and constitutional protections of the people being observed. Additional government use exceptions also include the following:
+The head of the law enforcement agency using the drone for this purpose must provide written authorization for such use and maintain a copy on file at the agency;
+To assist a law enforcement agency with traffic management; however, a law enforcement agency acting under this paragraph may not issue traffic infraction citations based on images or video captured by a drone;
+To facilitate a law enforcement agency’s collection of evidence at a crime scene or traffic crash scene;
+By a state agency or political subdivision for: (1) the assessment of damage due to a flood, wildfire, or any other natural disaster that is the subject of a state of emergency declared by the state or by a political subdivision, before the expiration of the emergency declaration; and (2) vegetation or wildlife management on publicly owned land or water; and, finally,
+By certified fire department personnel to perform tasks within the scope and practice authorized under their certification.
+Any individual or organization found to be engaging in University-Related UAS Activity in violation of Legal Authorities shall cease operation of the UAS immediately. Violations will be referred to the responsible FAU oversight body and/or legal or regulatory authorities, as appropriate. The operation of UAS by or through the Department of Public Safety and/or the University Emergency Management/Emergency Operations Center (EOC) may be exempt from the approval processes of this policy based on the determination of emergency needs by the President or designee.
+UAS OPERATIONAL REQUIREMENTS:
+UAS operation other than as specifically authorized by this Policy is strictly prohibited.
+UAS used for University business must obtain pre-flight authorization regardless of whether the operation is conducted on FAU Property or elsewhere.
+Each UAS must be registered with the FAA and the registration number must be affixed to the UAS in accordance with FAA requirements.
+The UAS pilot must have acceptable proof of UAS registration and remote pilot certification in their physical possession, or electronically, while operating the UAS.
+UAS shall not be operated inside any occupied or covered facility unless such facility is designated, either full-time or part-time, for the specific purpose of operating or testing UAS; or the operator has the express written permission of the facility’s authorizing authority.
+UAS shall not be operated within 75 feet of a residence hall, paved roadway, or parking structure and cannot otherwise interfere with the designated use of FAU Property or facilities without the express written permission of EH&S.
+UAS shall not be operated within 300 feet of any concert, festival, or other outdoor event or at any athletic facility that is part of FAU Property, without the express written permission of EH&S.
+UAS must not be used to take photos or videos of persons without express written permission the persons involved, or, when applicable. Except when given express written permission by the facility owner or manager and the person to be monitored (with the exception of official law enforcement operations), the UAS shall not be used to monitor or record in or near sensitive areas or areas where there is a reasonable expectation of privacy. These areas can include, but are not limited to restrooms, locker or changing rooms, residence halls or apartments, childcare centers, and medical treatment facilities.
+UAS shall not be used to take photos or videos of any workout, practice, or competition of any FAU intercollegiate sports team without the express written permission of the Athletics Department. Any such approved use must also comply with all other provisions of this Policy.
+No one may operate a UAS under the influence of alcohol or drugs.
+All UAS operations must be in compliance with Export Administration Act of 1979 and the Arms Export Control Act. All approvals for UAS operations are subject to the prior approval of the FAU Office of Export Controls.
+Violations of the policies and laws described herein by an employee or student are grounds for disciplinary action up to and including termination or expulsion in accordance with applicable university and the Florida Board of Governors regulations and/or collective bargaining agreements. Such disciplinary actions may also include reprimand or suspension. Violations of these policies and laws by any other users are grounds for terminating their use of university automobiles and other appropriate sanctions.
+RESPONSIBILITIES:
+Environmental Health & Safety: FAU’s Environmental Health & Safety (EH&S) department will assist with processing requests and responding to inquiries regarding University-Related UAS Activity
+Departments: Ensure that procurement and safe operation of UAS is in accordance with this policy.
+Remote Pilots in Command: Operate university UAS in accordance with this policy.
+All members of the FAU community, including faculty, staff, students, visitors, volunteers and contractors are personally responsible for complying with all applicable FAA regulations (including any temporary flight restrictions), federal, state, and local laws (including the respective of a foreign nation), and University policies related to the operation of UAS on FAU Property or in connection with FAU Business.
+PROCEDURES:
+I. UAS Procurement & Registration
+The Florida Department of Management Services (DMS), in conjunction with Florida Senate Bill 44, limits drone purchase, acquisition, or use by governmental agencies to drones manufactured by an approved manufacturer. Please refer to
+www.fau.edu/ehs/safety/risk-management-program/
+for the latest updates from the State on UAS procurement guidelines and use.
+Federal law requires sUAS registration, prior to the first flight, to help ensure operational safety for the operator, others on the ground, and manned aircraft. UAS pose security and privacy challenges and must be traceable in the event of an incident. Registration also helps enable the return of a sUAS should it be lost. Therefore, all small sUAS weighing more than 250 grams (0.55 lbs.) and less than 55 pounds (on takeoff, including everything that is on board or otherwise attached to the aircraft) must be registered with the FAA.
+UAS weighing more than 55 pounds must use a paper registration form, provided by the FAA, which records the UAS under 14 CFR Part 47 – Aircraft Registration. Registration information can be found here:
+Aircraft Registration | Federal Aviation Administration
+All FAU UAS pilots must complete a FAU Environmental Health & Safety UAS registration form which includes Part 107 license verification along with FAA UAS registration information from https://faadronezone.faa.gov/#/. This form is completed electronically and emailed with a copy of the pilot’s Part 107 license to
+ehs@fau.edu
+.
+The registration number must be marked on the UAS in a manner that allows the number to be readily seen. During UAS operation, the operator must be able to present their registration certificate in either print or electronic format if asked for proof. This registration must be renewed every three years.
+II. UAS Flight Approval Process
+Any university officer, agent, volunteer or employee wishing to operate a UAS for university business must complete the “UAS Flight Request” form and submit the request to ehs@fau.edu.
+Once the information is received, the requestor will receive their flight authorization within 24 hours unless there are any discrepancies or additional information requests to fully approve the activity.
+The requestor is responsible for ensuring the applicable FAA flight authorizations through LAANC and their affiliated apps have been secured prior to the flight activity taking place. LAANC flight authorization numbers must be included on the UAS Flight Request form.
+EH&S will provide FAU Police with details of any on-campus flight activity via e-mail once the flight has been approved.
+III. Insurance
+All operators of non-FAU UAS with permission to operate on FAU Property must carry comprehensive general liability insurance, that includes coverage for UAS operation, with minimum limits per occurrence of $1,000,000 and $2,000,000 in aggregate and must name Florida Atlantic University, The Florida Atlantic University Board of Trustees, the Florida Board of Governors, the State of Florida and their respective officers, agents, volunteers and employees are listed as Additional Insured. The UAV operator must provide FAU with the properly endorsed insurance certificate prior to operating a UAS on FAU Property or for any university-funded business.
+UAS activity for official university business by university officers, agents, volunteers and employees, within the course and scope of their university responsibilities, is covered under the university’s general liability policy through the State.
+FAU UAS that may be piloted by students as part of their educational experience may require additional insurance considerations. Please contact Risk Management for additional information
+prior
+to the commencement of the activity.
+The university’s insurance does not provide coverage to repair a damaged FAU-owned UAS. If you are interested in drone insurance that covers damages, please contact Risk Management.
+IV. Incident Reporting
+UAS incidents must be reported to university risk management at
+ehs@fau.edu
+no later than 1 business day after the incident.
+The RPIC must report any UAS accidents to the FAA within 10 calendar days of the operation if any of the following thresholds are met:
+a.    Serious injury to any person or loss of consciousness
+b.    Damage to any property, other than the SUAS, if the cost is greater than $500 to repair or replace the property (whichever is lower).
+Reportable UAS incidents to FAU risk management include the following: death related to UAS operation; serious injury resulting in hospitalization or emergency services; any fractures or dislocations; nerve, muscle or tendon damage; second- or third-degree burns; total unmanned aircraft loss; and/or damage to property other than the unmanned aircraft.
+FAA incident reports can be filed online via the FAA DroneZone website at
+FAADroneZone Access - Home
+.
+AA incident reports can also be filed by telephone to the appropriate FAA Regional Operations Center and/or the nearest Flight Standards District Office (FSDO).
+RELATED INFORMATION:
+14 CFR – Part 107 – Small Unmanned Aircraft Systems
+https://www.ecfr.gov/current/title-
+14/chapter-I/subchapter-F/part-107
+FAA UAS Registration
+FAADroneZone Access - Home
+Florida Department of Management services (DMS) Approved UAS Manufactures
+Approved Drone Manufacturers / State Purchasing / Business Operations / Florida Department
+of Management Services - DMS (myflorida.com)
+FAU Environmental Health & Safety
+Welcome to the Office of Environmental Health and Safety | Florida Atlantic University
+(fau.edu)
+INITIATING AUTHORITY:
+Vice President of Administrative Affairs, Director, Environmental Health and Safety

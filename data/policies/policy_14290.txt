@@ -1,0 +1,30 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14290
+TITLE: Administration of Campus Surveys and Questionnaires
+============================================================
+
+University Policy
+Office of the President
+University Policy
+1.2 Administration of Campus Surveys and Questionnaires
+Former Policy Number: 2.2
+APPLICABILITY:
+This applies to the University community and those intending to gather information from University faculty, staff and students.
+POLICY STATEMENT:
+The University actively seeks feedback from its many constituents to evaluate and improve its programs and services. The purpose of this policy is to ensure that survey research conducted under the auspices of FAU is compatible with the University's mission, conforms to sound educational practices for survey construction, administration and analysis, and minimizes the burden placed on respondents.
+Surveys, attitude and opinion polls, and questionnaires intended to gather information from FAU students, alumni, faculty, staff or community members for the purpose of evaluating programs, services or students must be registered and approved prior to administration first by the dean and/or vice president over the divisional area, and then the Office of Institutional Effectiveness and Analysis (IEA). The survey research committee, consisting of representatives from IEA, Research, Student Affairs, Public Affairs, and Academic Affairs, will review any surveys with widespread impact (surveys of the freshmen class, all seniors, and students in residence halls, the majority of university employees, etc.) for approval or denial.
+Regardless of sample size, surveys that are part of research project, and fall under the purview of the Institutional Review Board (IRB), must be reviewed and approved by this committee. Refer to:
+IRB Policies & Procedures | Florida Atlantic University
+.
+The following do not need to be registered with IEA: 1) individual classroom projects; 2) feedback on participation or use of a service, program or event; and 3) research gathering information for theses, dissertations, publications, or scholarship that requires minimal involvement of FAU students, alumni, faculty, staff or community (samples of 300 or fewer participants).
+DEFINITIONS:
+Institutional Review Board (IRB): An administrative body established to protect the rights and welfare of human research subjects recruited to participate in research activities conducted under the auspices of the institution with which it is affiliated.
+PROCEDURES:
+IEA will act as a clearinghouse for survey registration, survey data samples (email and contact information), and access to online survey software.  All research questionnaires should be reviewed and approved by deans/vice presidents in the divisions, thesis, dissertation committees, faculty in the academic departments, or the IRB as applicable.   Those conducting surveys will then be responsible for entering their questionnaire into the software, sending it, with up to 3 reminders, and retrieving their results. IEA will provide additional assistance if needed on major surveys that impact university decision-making and policy with instrument design, data analysis and reporting of results, upon approval by IEA.  To better inform the FAU community of planned and existing surveys and to facilitate sharing of survey results, IEA will maintain, on its website, a list containing information on past and future surveys. Those conducting surveys will be required to provide a copy of survey results, questionnaires and reports to IEA, if the online software is not utilized.
+Individuals proposing to conduct surveys under this policy should submit an "Authorization to Conduct Survey Research" in advance of the survey date, available online at
+https://helpdesk.fau.edu/
+The IEA Assistant Provost will review requests to conduct surveys and make a recommendation on whether or not to proceed within two weeks of receiving the request, unless it requires review by the survey research committee, which then requires up to 30 days.  The recommendation will be based on any conflict with existing surveys being conducted with specific groups (burden on respondents), the availability of existing information on the survey topic, relevance of the topic to university administrative decisions and policy, adequacy of instruments and sampling procedures, compliance with IRB review requirements and planned use of results.
+INITIATING AUTHORITY:
+Associate Provost and Chief Information Officer
+Related Information
+FAU Request Authorization to Conduct Survey Research
+FAU Research Integrity IRB Policies & Procedures

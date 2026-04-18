@@ -1,0 +1,31 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14322
+TITLE: Electronic Funds Transfers
+============================================================
+
+University Policy
+Office of the President
+University Policy
+4.8 Electronic Funds Transfers
+Former Policy Number: 5.8
+APPLICABILITY/ACCOUNTABILITY:
+This policy is applicable to all payments or reimbursements from the University made via Electronic Funds Transfer.
+DEFINITIONS:
+Electronic Funds Transfer ("EFT"):
+The transmission of an electronic message to a financial institution instructing it to make an electronic entry reflecting the transfer of ownership of funds from one depositor to another.
+POLICY STATEMENT:
+Under the direction of the Senior Vice President, Financial Affairs, the Controller’s Office is responsible for the daily management of University bank balances and the general oversight of EFT activity. The Controller’s Office, supervised by the Assistant Vice President for Financial Affairs, handles all matters concerning fund transactions, including EFT transactions.  This policy governs University's accounting and control procedures for which any funds under its control are allowed to be moved by electronic transaction for any purpose, including direct deposit, wire transfer, withdrawal, or investment.
+Electronic Funds Transfer can be accomplished via the Automated Clearing House ("ACH") or wire transfer.  ACH is the University's preferred mechanism, but wire transfer is acceptable when conditions do not support the use of ACH.  Through the Senior Vice President, Financial Affairs, the Assistant Vice President for Financial Affairs may designate and/or authorize staff to initiate and approve EFTs on behalf of the University.
+PROCEDURES:
+To promote the safety of University funds in the EFT environment, the following procedures will be adhered to:
+The procedure to initiate an EFT is subject to the same financial policies, procedures, and controls that govern disbursement of University funds by any other means.
+EFT transactions will not be made without proper authorization of affected parties in accordance with applicable law and regulations and accepted business practices.
+The University will provide to the disbursing bank a list of the names and titles of persons authorized by the University to initiate wire transfer requests (authorized representatives), as well as associated transfer limits.  All ACH transmissions will be sent by the disbursing bank only after a verification telephone call is placed by an authorized representative using a unique caller ID.
+All EFTs should be initiated by computer-based systems. Phone transfers should be used only as back-up in an emergency. Phone transfers, except for transfers between University accounts, will require approval by an authorized representative other than the initiator.
+The mechanism by which EFT requests are communicated to the disbursing bank will have adequate controls to prevent unauthorized access to both the system and to its various functionalities. These controls should include password protected user accounts, Personal Identification Numbers (PINs), and a designated security administrator role. The security administrator shall ensure that adequate separation of duties exists in accordance with accepted internal control standards and will protect the integrity of system user profiles. This includes assigning system IDs to users, changing user IDs as necessary, and assisting users with technical problems related to the EFT system. In addition, the security administrator will assign access to functions to users and is authorized to lock out personnel as directed by the Assistant Vice President for Financial Affairs.
+Requests for the electronic transfer of funds, other than transfers among the University's various bank accounts within the same financial institution, require approval by an authorized representative other than the initiator. In no case will an individual have the capability to initiate, approve, and record a non-repetitive EFT to the general ledger.
+Because EFTs between University bank accounts have reduced risk, the Controller’s Office may use EFTs on a routine basis to concentrate funds for payment and investment purposes. Although risks are minimal for transfers between University accounts, reasonable controls should exist with regard to authorization, reconciliation, and review of these transactions.
+Where EFT's are recurring, the security administrator will initiate the establishment of a template with receiving and disbursing bank information that may not be altered by those assigned to its use. The set-up of and modifications to these templates will require the signature of two authorized University signatories.
+Bank balances will be monitored daily for unusual or unexpected transactions.
+Reconciliation of banking activity to the general ledger will be accomplished in a timely manner with investigation and resolution of reconciling items.
+INITIATING AUTHORITY:
+Senior Vice President, Financial Affairs

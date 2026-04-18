@@ -1,0 +1,22 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14388
+TITLE: Exceptions to Technology Policies
+============================================================
+
+University Policy
+Office of the President
+University Policy
+10.14 Exceptions to Technology Policies
+Former Policy Number: 12.14
+I. APPLICABILITY:
+This policy applies to all users of University technology resources seeking an exception to University policies.
+II. POLICY STATEMENT:
+In limited circumstances, an exception to an established University policy covering University technology resources may be granted. Such exceptions will be evaluated by the Chief Information Security Officer (CISO) and/or Chief Information Officer (CIO) as appropriate to determine the appropriateness of such an exception and to ensure that an exception does not exceed applicable risk tolerances of the University.
+All exceptions to policies must either be defined in the policy itself, or provided in writing by the CIO, CISO, or designee as appropriate.
+The following type of exceptions may be granted:
+(a) Limited, short-term, or emergency exceptions:
+These are exceptions that are granted in emergency circumstances or to resolve minor issues that are not ongoing. Such exceptions may be granted via an email from the CIO or CISO that copies OIT management and the requestor where possible. Such an exception must specify what exception is being granted and the duration of the exception. These exceptions are limited to a maximum of 30 days but may be extended.
+(b) Ongoing exceptions:
+Exceptions that need to be granted for periods of time longer than a month require the completion of an exception request form provided by the CISO. This form will document the nature of the exception, the policy for which an exception is being requested, justification for the exception, and any additional mitigating controls being employed to protect University data or assets. These exceptions are granted for a maximum of 1 year but may be renewed after a new review of the exception.
+Documented exceptions will be maintained by the Information Security team.
+INITIATING AUTHORITY:
+Associate Provost and Chief Information Officer

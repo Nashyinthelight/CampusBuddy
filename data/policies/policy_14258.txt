@@ -1,0 +1,140 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14258
+TITLE: Global Travel Safety and Security
+============================================================
+
+University Policy
+Office of the President
+University Policy
+3.4.2 Global Travel Safety and Security
+Former Policy Number: 1.19
+1. APPLICABILITY:
+This policy applies to all people engaging in University-Related Travel Abroad.
+2. DEFINITIONS:
+Foreign Country of Concern (FCOC): Means the People’s Republic of China (including Hong Kong and Macau), the Russian Federation, the Islamic Republic of Iran, the Democratic People’s Republic of Korea, the Republic of Cuba, the Venezuelan regime of Nicholas Maduro, or the Syrian Arab Republic, including any agency of or any other entity under significant control of such FCOC.
+Travel Abroad: Travel that occurs outside of the United States and its territories.
+Travel Advisory: Formal warning issued by the U.S. Department of State (DOS) advising caution in traveling to specified destinations due to reasons such as armed violence, civil or political unrest, high incidence of crime, natural disaster, or outbreak of one or more contagious diseases. The DOS uses a four-tier risk level system:
+Level 1 (exercise normal precautions);
+Level 2 (exercise increased caution);
+Level 3 (reconsider travel); and
+Level 4 (do not travel).
+Travel Period: The period between the time of departure from and the time of return to the United States.
+University Assets: Tangible or intellectual property, data, and information that the University either owns or has custody of pursuant to contract, applicable law, regulation, or policy.
+University-Related Travel Abroad: Travel abroad that is sponsored by, supported by, affiliated with, related to, or undertaken on behalf of the University--regardless of funding source or cost. University Related Travel Abroad may be Student-Related or Employment-Related.
+University Travel Registry: The centralized system of record for all University-Related Travel Abroad, which includes essential travel details—including traveler information, destination, duration, and purpose—for the purpose of safety, compliance, oversight, and emergency response.
+Student-Related Travel Abroad: Travel abroad for undergraduate or graduate students or student groups conducted as part of a program elective or required activity, research project, internship, service learning, volunteer activity, performance, competition, athletics, or any other activity connected to an individual’s status as an active University student, regardless of the funding source. Student-related travel abroad may be academic [activity for academic credit or otherwise part of an academic program of study (such as internships, academic service-learning, practicum, or research)] or non-academic (any non-credit international activity endorsed by a department, faculty/staff member, or travel organized by a Registered Student Organization (RSO). Student-related travel abroad does not include solely personal travel (e.g., vacations, travel to visit family, etc.)
+Employment-Related Travel Abroad: Travel abroad by any person conducting University business in support of a specific program of instruction, research, field experience, site visit, public service, conference, or other employment-related foreign activity regardless of the funding source or whether the employee is on contract, on leave, or has no active appointment (inclusive of summer or other periods for 9-month appointments). Employment-related travel abroad does not include solely personal travel (e.g., vacations, travel to visit family, etc.).
+3. POLICY STATEMENT:
+3.1. Florida Atlantic University (FAU) is committed to responsible global travel with the highest priority on safety, security, and compliance.
+3.2. This policy establishes university-wide standards and requirements for all university-related travel abroad and outlines institutional mechanisms to assess and manage risks or threats to safety and security abroad and ensure compliance with all applicable legal authorities.
+3.3. All university-related travel abroad requests must be submitted for review no later than 30 days prior to a proposed travel departure date to ensure adequate time for risk assessments, institutional reviews, and any required pre-approvals or recommendations.
+3.4. The University reserves the right to recall travelers, cancel programs, or otherwise intervene in travel arrangements at any time due to significant deterioration of local conditions, emerging threats, policy violations, or other exigent circumstances.
+4. RESPONSIBILITIES:
+4.1. Research Integrity Office for Foreign Influence (RIO-FI)
+4.1.1. The Office of Compliance and Ethics serves as the University’s RIO-FI.
+4.1.2. Oversees compliance with Florida laws and regulations for all employment-related travel abroad and activities for faculty, researchers, and research department staff.
+4.1.3. The RIO-FI delegates responsibility for pre-approval and screening of employment-related travel abroad for faculty, researchers, and research department staff as follows:
+4.1.3.1. DOS Level 1 and Level 2 destinations: Delegated to the Department of Emergency Management (DEM).
+4.1.3.2. DOS Level 3 and Level 4 destinations: Delegated to the Global Travel Safety and Security Committee (GTSSC), with coordination and support from DEM.
+4.1.3.3. Foreign Countries of Concern (FCOC): Delegated to the GTSSC, with final pre-approval and screening by the RIO-FI.
+4.1.4. Will maintain records of faculty, research, and research department staff employment-related travel abroad that did not receive funding from FAU but was recorded in the university travel registry.
+4.1.5. Will conduct random spot checks of travel records to validate compliance with this policy.
+4.2. GTSSC
+4.2.1. Appointed by DEM and is responsible for assessing and reviewing all employment-related and student-related travel to destinations designated as DOS Level 3 or Level 4, as well as travel to FCOC.
+4.2.2. Issues risk-based feedback regarding travel abroad as follows:
+4.2.2.1. DOS Level 3 Destinations: Feedback submitted to the respective division Vice President, who in turn reviews and determines whether travel may proceed.
+4.2.2.2. DOS Level 4 Destinations: Feedback submitted to the University Executive Leadership Team (ELT) via the Executive Vice President & Chief Operating Officer, who in turn reviews and determines whether travel may proceed.
+4.2.2.3. FCOC: Feedback submitted to the respective division Vice President, unless also designated as a DOS Level 4, in which case feedback is submitted to the ELT. The area who receives the feedback (either the Vice President or ELT) reviews it and determines whether travel may proceed.
+4.3. DEM
+4.3.1. Serves as the University’s central coordinating and processing body for all university-related travel abroad– including both employment-related and student-related.
+4.3.2. Develops, implements, and maintains the University’s global travel safety and security programs, policies, procedures, and guidance documents.
+4.3.3. Administers the University’s travel abroad screening and review process.
+4.3.4. Conducts reviews of all submitted university-related travel abroad, including documentation for liability waivers, insurance, and required approvals.
+4.3.5. Appoints and supports the GTSSC by providing the information, tools, and resources necessary for informed risk assessments.
+4.3.6. Maintains the University Travel Registry.
+4.3.7. Compiles and submits the University’s Annual Report of Foreign Travel to FCOCs, in accordance with applicable state and Board of Governors requirements.
+4.3.8. Maintains travel abroad safety and security records for at least three years or longer if otherwise required that includes the following:
+4.3.8.1. All foreign travel requests and approvals;
+4.3.8.2. The purpose of the travel; and
+4.3.8.3. Any records related to the foreign activity review from a global travel safety and security perspective.
+4.4. Respective Vice Presidents and ELT
+4.4.1. Review and approval responsibilities assigned under this policy are non-delegable. Vice Presidents and members of the ELT must personally review the GTSSC’s feedback, risk assessments, and any supporting documentation before issuing a decision.
+4.4.2. Decision-makers must document their determinations in writing (e.g., via signature, email, electronic approval, or official memorandum) to ensure accountability, auditability, and compliance.
+4.5. Office of Information Technology
+4.5.1. Safeguards University data and technology assets used during travel abroad and ensuring that travelers comply with applicable IT security requirements for University Assets.
+4.5.2. Develops, implements, and maintains programs, procedures, and guidance related to the safe and secure use, transport, and access of university-owned or managed telecommunications, computing devices, and data during travel abroad.
+4.5.3. Provides travelers with pre-travel IT security requirements and resources, including recommended practices for safeguarding laptops, mobile devices, data storage, cloud access, and University accounts during travel abroad.
+4.6. Export Control
+4.6.1. The University’s Export Control Officer ensures compliance with U.S. export control laws and regulations in connection with travel abroad.
+4.6.2. The Export Control Officer serves as the authority having jurisdiction for export control compliance and management and shall administer all export control reviews and determinations.
+4.6.3. The Export Control Officer supports travelers, units, and University leadership by providing guidance, screenings, training, and any required licensing or approvals related to export-controlled items, technology, data, or activities conducted abroad.
+4.7. Supervisors
+4.7.1. Supervisors of employees undertaking university-related travel abroad are directly responsible for ensuring that such travel and associated travelers align with all regulations, policies, processes, procedures, and requirements.
+4.7.2. Supervisors may not delegate to other staff or units and must review proposed travel requests to confirm alignment with university standards and applicable regulations and procedures.
+4.8. Traveler Responsibilities
+4.8.1. All travel abroad requests must be submitted for review no later than 30 days of a travel period to ensure adequate time for risk assessments, institutional reviews, and any required pre-approvals or recommendations prior to travel commencing.
+4.8.2. Travelers are required to comply with all applicable travel-related and safety and security-related policies and procedures.
+4.8.3. Travelers are required to comply with all training requirements related to travel abroad as required by the DEM, GTSSC, or RIO-FI.
+4.8.4. Travelers must follow federal and state laws and regulations, as well as the local laws and regulations, including re-entry, while executing travel abroad.
+4.8.5. All travelers must complete the Global Travel Liability Waiver regardless of the international destination.
+4.8.6. Any person travelling abroad with access to or in possession of University Assets at any time during the travel period must adhere to all applicable University policies, protocols, and procedures to safeguard, protect, and responsibly use and share the data, records, or property, including compliance with all applicable export control laws and regulations.
+4.8.7. Travelers are required to maintain updated contact information and a means of emergency communication during the travel period, and to respond promptly to university outreach in the event of an emergency or developing situation.
+4.8.8. If a traveler holds a security clearance sponsored by the University, all necessary reporting should be made to the appropriate department sponsoring the security clearance.
+4.8.9. Travelers shall accurately document and disclose all expenses reimbursed by the University or an external entity during such travel (including transportation, food, and lodging), as well as any payments or honoraria received during the travel or related activities. Travelers are responsible for submitting this information through the appropriate University processes to ensure compliance with record-keeping and reporting requirements.
+4.8.10. Travelers must provide all necessary records related to their travel abroad as required by this policy.
+5. PROCEDURES:
+5.1. Submission, Screening, and Registration
+5.1.1. All university-related travel abroad must be submitted for institutional review no later than 30 days prior to the proposed departure date to allow time for screening, risk assessment, and necessary approvals.
+5.1.2. Travelers must check their intended destination against the DOS Travel Advisory system and the University’s designated list of FCOC prior to submitting a travel request. Travelers must comply with all requirements associated with these classifications.
+5.1.3. All university-related travel abroad must be registered in the University Travel Registry, which consolidates entries from multiple travel systems and is administered by the DEM.
+5.1.4. Travelers must submit a Spend Authorization. It must include detailed travel plans, estimated expenses and all supporting documentation. The Spend Authorization will route via the designated business process required for authorization(s). The Spend Authorization must be completed, submitted and approved prior to any travel.
+5.2. Review, Risk Assessment, and Approval Process
+5.2.1. Upon submission, DEM will screen all university-related travel abroad for completeness, destination-specific concerns, and route to appropriate review entries.
+5.2.2. Depending on destination risk level and classification (e.g., Level 3 or 4, or FCOC), university-related travel abroad will be escalated to the GTSSC for further review and risk-based recommendations.
+5.2.3. The GTSSC may issue feedback to University leadership (e.g., Division Vice Presidents, ELT) regarding the advisability of travel based on a structured risk assessment.
+5.2.4. Travelers whose travel requires additional review will be notified of the outcome and any related restrictions, advisories, or conditions.
+5.2.5. Travelers wanting to conduct employment-related or student-related travel that includes a destination DOS Level 3, DOS Level 4, of FCOC must include a detailed itinerary of their activities during the review process.
+5.2.6. Prior to final approval, travelers must complete the following requirements:
+5.2.6.1. Enroll in the DOS’s Smart Traveler Enrollment Program (STEP);
+5.2.6.2. Submit a signed Global Travel Liability Waiver;
+5.2.6.3. Provide proof of approved international travelers insurance; and;
+5.2.6.4. Formally acknowledge any recommendations of conditions issued by the GTSSC or DEM related to their travel destination and proposed travel abroad.
+5.3. Required Documentation and Pre-Departure Orientation
+5.3.1. All travelers engaging in university-related travel abroad must complete the Global Travel Liability Waiver, regardless of the risk level of the destination.
+5.3.2. All travelers must procure and submit proof of international travelers’ insurance meeting University standards.
+5.3.3. Travelers must review and formally acknowledge any risk-related recommendations or restrictions provided by the GTSSC or DEM as part of the documentation process.
+5.3.4. Participation in pre-departure orientation or related safety briefings is strongly encouraged by all travelers and may be required by the GTSSC, DEM, or sponsoring units. Required sessions must be completed prior to departure.
+5.4. Export Control Compliance
+5.4.1. Trip leaders, program managers, or employees accompanying students abroad must ensure all travelers comply with export control laws and regulations.
+5.4.2. If a license is required under export control laws, the license must be in place prior to export or international departure.
+5.5. Emergencies Abroad
+5.5.1. The University’s established emergency management protocols, including
+University Policy 3.4.1 – Emergency Management
+and the FAU Comprehensive Emergency Management Plan, shall be utilized to effectively mitigate, respond to, and recover from emergencies occurring abroad.
+5.5.2. Travelers are encouraged to develop an individual emergency communication plan and familiarize themselves with protocols for shelter-in-place, evacuation, and engagement with the nearest U.S. embassy or consulate.
+5.6. Upon Returning to FAU
+5.6.1. Regardless of travel abroad destination, if a traveler encountered any criminal activity or otherwise believed they may have been subject to foreign influence activities, report these incidents to the FAU Police Department and the Office of Compliance and Ethics.
+5.6.2. If faculty, researchers, and research department staff conduct employment-related travel abroad but did not receive fundings from FAU for the travel, the traveler must submit the following to the Office of Compliance and Ethics:
+5.6.2.1. Expenses reimbursed during the travel,
+5.6.2.2. Payments and honoraria received during the travel and activities, and
+5.6.2.3. Any other expenses or records related to the foreign activity.
+5.6.3. For funding provided by FAU, the traveler must submit an expense report that references the pre-approved spend authorization to reconcile all trip expenses for company paid, credit card charges, or for personal reimbursement.
+6. Non-Compliance:
+6.1. Failure to comply with this policy, including but not limited to failure to obtain required approvals, register travel, complete mandatory documentation, or adhere to safety and legal requirements, may result in
+6.1.1. Denial or revocation of travel authorization.
+6.1.2. Ineligibility for reimbursement or funding.
+6.1.3. Disciplinary action in accordance with applicable University policies and procedures and applicable collective bargaining agreements.
+7. Additional Resources:
+Global Travel Safety and Security:
+https://www.fau.edu/global-travel/
+Foreign Influence:
+https://www.fau.edu/compliance/foreign-influence/
+Student Travel Resources:
+https://www.fau.edu/studenttravel/
+Study Abroad:
+https://www.fau.edu/goabroad/
+Export Control Resources:
+http://www.fau.edu/research/export-control/
+Travel Expense Manual:
+https://www.fau.edu/procurement/files/expense-travel-policies-and-procedures.pdf
+Credit Card User Guidelines:
+https://www.fau.edu/procurement/files/purchasingcard/manual.pdf

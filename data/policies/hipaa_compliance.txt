@@ -1,0 +1,34 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14269
+TITLE: HIPAA Compliance
+============================================================
+
+University Policy
+Office of the President
+University Policy
+7.11 HIPAA Compliance
+Former Policy Number: 1.18
+APPLICABILITY:
+This policy applies to the University’s Covered Components and departments or divisions working closely with the Covered Components.
+DEFINITIONS:
+Covered Component:
+Components of a covered entity that engage in covered functions and any component that engages in activities that would make such component a business associate of a component that performs covered functions if the two components were separate legal entities.
+Covered Entity:
+A health plan; a health care clearinghouse, and a healthcare provider who transmits any health information in electronic form.
+Hybrid Entity:
+A single legal entity that is a covered entity, performs business activities that include both covered and non‐covered functions, and designates its health care components as provided in the Privacy Rule.
+HIPAA:
+The federal Health Insurance Portability and Accountability Act of 1996 and its implementing regulations.
+POLICY STATEMENT:
+In 2014, the University President created the Florida Atlantic University (FAU) HIPAA Compliance Task Force to assist the administration in maintaining compliance with:
+the HIPAA Privacy Rule, which protects the privacy of individually identifiable health information;
+the HIPAA Security Rule, which sets national standards for the security of electronic protected health information; and
+the HIPAA Breach Notification Rule, which requires “covered entities” and “business associates” to provide notification following a breach of unsecured protected health information, consistent with guidance issued by the U.S. Department of Health & Human Services, Office for Civil Rights, as part of its enforcement efforts.
+FAU has elected to be treated as a Hybrid Entity and has designated four health care components of FAU as Covered Components: (1) The Charles E. Schmidt College of Medicine and its clinics; (2) The Christine E. Lynn College of Nursing and its clinics; (3) FAU Student Health Services; and (4) The College of Education’s Communications Sciences & Disorders Clinic.  In addition to representatives from these four health care components, the HIPAA Compliance Task Force also consists of representatives from other interested colleges, offices and departments, including the Division of Athletics, the Division of Research, the Division of Financial Affairs, the Office of the General Counsel, the Department of Human Resources, the Office of Information Technology, the Provost’s Office, and the Compliance Office.  A primary responsibility of the HIPAA Compliance Task Force is to recommend and implement policies and procedures to effectuate comprehensive compliance practices.
+PROCEDURES:
+The HIPAA Compliance Task Force shall meet regularly and establish, implement, and oversee HIPAA-compliant policies and procedures for the University’s Covered Components.  Such policies and procedures, as well as any related forms, shall be generally accessible at the following website:
+https://www.fau.edu/hipaa/policies/
+.  The Task Force shall periodically review and update policies, procedures, and forms as appropriate.
+INITIATING AUTHORITY:
+Chief Compliance & Ethics Officer
+Related Information
+FAU HIPAA and Privacy Policies

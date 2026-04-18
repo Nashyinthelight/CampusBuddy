@@ -1,0 +1,86 @@
+SOURCE: https://faupub.cfmnetwork.com/B.aspx?BookId=14308
+TITLE: Energy Conservation
+============================================================
+
+University Policy
+Office of the President
+University Policy
+3.2.5 Energy Conservation
+Former Policy Number: 4.2.5
+APPLICABILITY:
+This policy applies to all Florida Atlantic University (FAU or University) employees, students, visitors, guests, tenants and contracted service providers.
+DEFINITIONS:
+Primary Building Occupancy:
+For the purpose of energy conservation, building occupancy is defined to be regularly scheduled university work days Monday through Friday from 7:00 am until 6:00 pm. Operations outside of the occupied days and times stated above including University recognized holidays are considered unoccupied.
+Energy Star:
+U.S. government-backed symbol for energy efficiency. The Environmental Protection Agency (EPA) ensures that each product that earns the label is independently certified to deliver set standards of efficiency performance and savings as well as protection to the environment.
+Special Events:
+Short-term or one-time events that require time extension beyond stated building occupancy hours.
+POLICY STATEMENT:
+FAU is committed to realistically and comprehensively reducing energy consumption, increasing operational efficiencies, improving air quality and ultimately contributing to administrative efforts to contain fiscal expenditure. This policy establishes the framework for acceptable protocols, practices, and operational standards with regards to energy conservation.
+Facilities Management is responsible for developing, implementing and monitoring energy management and conservation strategies. The University shall increase energy efficiency through capital investment and improved operations based on recommended energy management and conservation strategies. The University will undertake all necessary steps to fund efficiency and conservation strategies, and upon securing available funds, expeditiously implement identified measures.
+Faculty, staff, students, visitors, and contractor service providers, also have a responsibility to reduce individual impacts by adopting energy conservation measures.
+Occupancy Scheduling
+: Heating, Ventilation, and Air Conditioning (HVAC) operations will mirror the hours of operation of primary building occupancy. Hours of operation will be extended to accommodate evening and weekend classes during the academic semester. Buildings required to support the University’s full time or extended operations including research, animal care, mission critical administrative operations, etc., shall be serviced accordingly. Special events operations can request extended occupied hours of operation for the period of time needed.
+Space Temperature and Ventilation
+: Facilities Management shall establish environmental controls to regulate temperature and ventilation in University-owned or controlled facilities and buildings.
+Temperature Set-Points
+: The temperature set-points shall fall within the range indicated by industry standards and best practices based on relative humidity.
+Occupied times
+:
+Heated to a target temperature of 68 degrees with an allowable span from 66 degrees to 70 degrees.
+Cooled to a target temperature of 74 degrees with an allowable span from 72 degrees to 76 degrees.
+Unoccupied Times:
+Heating unoccupied temperatures where technically and economically feasible will be allowed as low as 60 degrees.
+Cooling unoccupied temperatures where technically and economically feasible will be allowed as high as 80 degrees.
+Space temperatures maintained during designated unoccupied times may not be suitable for normal activities.
+Auxiliary Heating and Cooling Mechanisms
+: Mechanisms including but not limited to space heaters, personal air conditioning units, humidifiers and dehumidifiers (unless approved by Environmental Health and Safety) are not allowed on campus due to excessive energy consumption of these items and because unauthorized space heaters violate state fire code.  See University Policy 3.1.1 –
+Environmental Health and Safety
+.
+Ventilation
+: The University will optimize ventilation system functionality by:
+Configuring systems, where possible, to reduce or eliminate the introduction of outdoor air.
+Requiring that exterior doors, that are designed to be kept closed, must remain closed at all times in order to maintain proper temperature set-points and pressure balances.
+Mandating that HVAC supply, return and exhaust vents shall not be blocked by equipment or furniture.
+Exemptions
+: Facilities with programmatic needs such as temperature sensitive research studies and collection(s), and/or specialized equipment or facilities with occupants with medical conditions or disabilities may be exempted.
+Energy Efficient, Cost-Effective Technologies
+: The University will reduce energy usage and cost, eliminate waste, and conserve energy resources by deploying energy efficient, cost-effective technologies. Facilities Management is responsible for researching and recommending suitable technologies as part of the energy efficiency strategy.
+Lighting
+:
+Facilities Management will replace failed lighting with the most energy efficient option available.
+Lighting in buildings that is not required to remain on for safety and security reasons or mission-critical operations must be turned off whenever the space is unoccupied, including but not limited to offices, classrooms, restrooms, and other common spaces. Custodians will be responsible for turning off lights when they are finished cleaning a space during unoccupied hours, or if the room is unoccupied during business hours.
+Individuals are not to tamper with or disconnect sensors installed to automate lights.
+Design, Renovation, and Capital Acquisition
+: The University shall incorporate energy efficiency strategies into the decision-making process during design, renovation and acquisition of facilities and equipment.
+Facilities Management shall implement energy efficiency strategies in construction and renovation.
+Procurement, to the greatest extent possible, shall purchase equipment with an Energy Star rating.
+Equipment
+:
+Equipment and Appliances
+:
+Heat or Cool-Emitting: No heat or cool-emitting devices, equipment or appliances shall be placed near thermostats.
+Office Equipment: This equipment must utilize built in power management features during periods of daytime inactivity, if equipped, and must be powered down at the end of the work day.
+All small appliances, such as coffee pots, must be placed on sleep-mode, turned off or unplugged when not in use.
+Specialized Equipment
+: Specialized equipment, including fume hoods, must be operated in a manner that reduces energy consumption, and adheres to ventilation and temperature controls at all times, while following all safety guidelines.
+Partnerships and Cost-Sharing
+: Facilities Management will seek sources of funding, where possible, to implement energy efficient improvements and utility infrastructure renewal projects, including federal, state, and private sector grant opportunities and partnerships. In the event these outside funding sources are unavailable or inadequate to meet project requirements, the University shall review priorities within capital infrastructure funding, as applicable. The University will establish partnerships with federal, state, and local governments and other organizations, as appropriate, to accomplish energy conservation and utility management objectives.
+Suspension of Normal Operations
+: Conservation actions and strategies implemented during a suspension of normal operations will be dictated by the conditions at hand and may require shut down of large systems to conserve and manage energy distribution.
+Exemption and Extension Requests
+: Requests for exemptions and extensions shall be directed to the Director of Engineering & Utilities.
+Reporting
+: The University community must report observations of excessive energy use, malfunctioning or non-functioning utilities and related appurtenances, and other related concerns as soon as possible via the University’s Work Order system.
+RELATED INFORMATION:
+University Energy Management and Conservation:
+www.fau.edu/facilities/eu/save_energy.php
+University Policy on Facilities Management
+University Policy on Environmental Health and Safety
+University Work Orders:
+https://www.fau.edu/facilities/bg/WorkControl/
+INITIATING AUTHORITY:
+Vice President for Administrative Affairs
+Related Information
+Facilities Management AVP Policies & Procedure
