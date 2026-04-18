@@ -6,5 +6,8 @@ anthropic
 sentence-transformers
 streamlit
 python-dotenv
+pypdf
+requests
+beautifulsoup4
 requests
 beautifulsoup4
