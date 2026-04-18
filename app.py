@@ -23,20 +23,31 @@ st.markdown("""
     [data-testid="stSidebar"] * { color: white !important; }
     [data-testid="stSidebar"] hr { border-color: rgba(255,255,255,0.2) !important; }
 
-    /* ── Full-width banner ── */
+    /* ── Remove default top padding so banner sits flush ── */
+    .block-container { padding-top: 0 !important; }
+    [data-testid="stHeader"] { display: none !important; }
+
+    /* ── Full-width fixed banner ── */
     .banner {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 9999;
         background: linear-gradient(120deg, #003366 0%, #004080 60%, #CC0000 100%);
         color: white;
-        padding: 2rem 3rem;
-        margin: -4rem -4rem 2rem -4rem;
+        padding: 1.2rem 2.5rem;
         display: flex;
         align-items: center;
         gap: 1.5rem;
-        box-shadow: 0 4px 20px rgba(0,0,0,0.25);
+        box-shadow: 0 4px 20px rgba(0,0,0,0.3);
     }
-    .banner-owl { font-size: 3.5rem; animation: owlBob 2s ease-in-out infinite; }
-    .banner-text h1 { margin: 0; font-size: 2.2rem; font-weight: 800; letter-spacing: 1px; }
-    .banner-text p  { margin: 0.2rem 0 0; opacity: 0.88; font-size: 1rem; }
+    /* Push content down so it doesn't hide under the fixed banner */
+    section.main > div:first-child { padding-top: 90px !important; }
+
+    .banner-owl { font-size: 3rem; animation: owlBob 2s ease-in-out infinite; }
+    .banner-text h1 { margin: 0; font-size: 2rem; font-weight: 800; letter-spacing: 1px; }
+    .banner-text p  { margin: 0.2rem 0 0; opacity: 0.88; font-size: 0.95rem; }
 
     /* ── Owl bob (idle) ── */
     @keyframes owlBob {
