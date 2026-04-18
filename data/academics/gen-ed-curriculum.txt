@@ -1,0 +1,206 @@
+FAU GENERAL EDUCATION CURRICULUM (GEC)
+Source: https://www.fau.edu/registrar/university-catalog/catalog/degree-req/
+Applies to: Students matriculating in fall 2024 and later.
+
+================================================================================
+OVERVIEW
+================================================================================
+
+Minimum 36 credits of General Education coursework required, distributed across
+5 subject areas. Includes at least 15 credits from the State of Florida General
+Education Core [Group A] and up to 21 credits of FAU Institutional requirements
+[Group B].
+
+CREDIT DISTRIBUTION:
+  Communication       — 3 (Group A) + 3 (Group B) = 6 total
+  Humanities          — 3 (Group A) + 3 (Group B) = 6 total
+  Social Science      — 3 (Group A) + 3 (Group B) = 6 total
+  Natural Science     — 3 (Group A) + 3 (Group B) = 6 total
+  Mathematics         — 3 (Group A) + 3 (Group B) = 6 total
+  Additional Enrichment —           6 (Group B)   = 6 total
+  TOTAL               — 15 (Group A) + 21 (Group B) = 36 total
+
+Notes:
+- Group B requirements may be satisfied with Group A courses from the same subject area.
+- Additional Enrichment: choose 6 credits from Humanities, Social Science, or Natural Science.
+- A course may simultaneously satisfy a GEC requirement and a major requirement.
+- Students entering FAU with an A.A. from a Florida public state school have met
+  FAU's General Education requirements.
+- Transfer students with an A.S. degree typically have 15 GEC credits; must complete
+  remaining credits at FAU.
+- Consult an academic advisor before selecting GEC courses.
+
+================================================================================
+I. COMMUNICATION (6 credits required; grade of "C" or higher in each)
+================================================================================
+
+Must choose two courses; one must be from Group A.
+
+GROUP A — State of Florida General Education Core:
+  ENC 1101  College Writing 1 (WAC) ........................ 3 credits [REQUIRED]
+  (or a course with an ENC prefix for which ENC 1101 is a direct prerequisite)
+
+GROUP B — FAU Institutional Options:
+  ENC 1102  College Writing 2 (WAC) ........................ 3 credits
+  SPC 2608  Public Speaking ................................ 3 credits
+
+ENC 1102 SUBSTITUTE:
+  HIS 2050  Writing History (WAC) .......................... 3 credits
+
+Important notes:
+- ENC 1101 is required for all students; there are no substitutes for ENC 1101.
+- Students must take 4 WAC courses total, 2 of which must be from Communication.
+- Completing ENC 1101 with "C" or higher earns a transferable badge for
+  "Fundamentals of Written Communication."
+
+================================================================================
+II. HUMANITIES (6 credits required)
+================================================================================
+
+Must take two courses; one must be from Group A. Second may be from Group A or B.
+
+GROUP A — State of Florida General Education Core:
+  ARH 2000  Art Appreciation ............................... 3 credits
+  MUL 2010  History and Appreciation of Music .............. 3 credits
+  PHI 2010  Introduction to Philosophy (WAC) ............... 3 credits
+  THE 2000  Appreciation of Theatre ........................ 3 credits
+  HUM 2020  Introduction to Humanities ..................... 3 credits
+            (Honors version available for University Honors Program students)
+  LIT 2000  Introduction to Literature ..................... 3 credits
+            (Honors version available for University Honors Program students)
+
+GROUP B — FAU Institutional Options:
+  ARC 2208  Culture and Architecture: The Master Builder ... 3 credits
+  ARH 2050  History of Art 1 .............................. 3 credits
+  ARH 2051  History of Art 2 .............................. 3 credits
+  DAN 2100  Appreciation of Dance .......................... 3 credits
+  FIL 2000  Film Appreciation ............................. 3 credits
+            (Honors version available for University Honors Program students)
+  LIN 2607  Perspectives on Language ....................... 3 credits
+  LIT 2010  Interpretation of Fiction (WAC) ................ 3 credits
+  LIT 2030  Interpretation of Poetry (WAC) ................. 3 credits
+  LIT 2040  Interpretation of Drama (WAC) .................. 3 credits
+  LIT 2070  Interpretation of Creative Nonfiction (WAC) ... 3 credits
+  LIT 2100  Introduction to World Literature .............. 3 credits
+  MUH 2121  World Music .................................... 3 credits
+  SPT 2530  Hispanic Culture and Civilization .............. 3 credits
+  WOH 2012  History of Civilization 1 (WAC) ............... 3 credits
+  WOH 2022  History of Civilization 2 ...................... 3 credits
+
+================================================================================
+III. SOCIAL SCIENCE (6 credits required)
+================================================================================
+
+Must take two courses; one must be from Group A. Second may be from Group A or B.
+
+GROUP A — State of Florida General Education Core:
+  AMH 2010  United States History to 1877* ................. 3 credits
+  AMH 2020  United States History since 1877* .............. 3 credits
+  ANT 2000  Introduction to Anthropology (WAC) ............. 3 credits
+  ECO 2013  Macroeconomic Principles ....................... 3 credits
+  POS 2041  Government of the United States* ............... 3 credits
+  PSY 1012  General Psychology ............................ 3 credits
+
+GROUP B — FAU Institutional Options:
+  CCJ 2002  Law, Crime, and the Criminal Justice System .... 3 credits
+  ECO 2023  Microeconomic Principles ....................... 3 credits
+  EME 2620  Digital Literacy .............................. 3 credits
+  EVR 1110  Human Dimensions of Environmental Change ....... 3 credits
+  EVR 2017  Environment and Society ....................... 3 credits
+  GEA 2000  World Geography ............................... 3 credits
+  INR 2002  Introduction to World Politics ................ 3 credits
+  LIN 2001  Introduction to Language ...................... 3 credits
+  PAD 2081  Risk and Resilience to Natural Hazards ........ 3 credits
+  POT 2000  Global Political Theory ....................... 3 credits
+  SOW 1005  Perspectives of Social Services ............... 3 credits
+  SYG 1000  Sociological Perspectives ..................... 3 credits
+  URP 2051  Designing the City ............................ 3 credits
+
+* AMH 2010, AMH 2020, and POS 2041 fulfill partial requirements for Civic Literacy.
+
+================================================================================
+IV. NATURAL SCIENCE (6 credits required; at least one course must have a lab)
+================================================================================
+
+Must take two courses; one must be from Group A. Second may be from Group A or B.
+
+GROUP A — For Non-Science Majors:
+  AST 2002  Introduction to Astronomy ...................... 3 credits
+  BSC 1005  Life Science ................................... 2 credits (3 w/ BSC 1005L lab)
+  CHM 1020C Contemporary Chemical Issues ................... 3 credits
+  ESC 2000  The Blue Planet ................................ 3 credits
+  EVR 1001  Environmental Science and Sustainability ....... 3 credits
+  GLY 2010C Physical Geology/Evolution of the Earth ........ 4 credits
+  OCE 2001  Introduction to Oceanography .................. 3 credits
+            (Honors version available for University Honors Program students)
+
+GROUP A — For Science Majors:
+  BSC 1010  Biological Principles .......................... 3 credits (4 w/ BSC 1010L lab)
+  BSC 2085  Anatomy and Physiology 1 ....................... 3 credits (4 w/ BSC 2085L lab)
+  CHM 2045  General Chemistry 1 ........................... 3 credits (4 w/ CHM 2045L lab)
+  PHY 2048  General Physics 1 ............................. 4 credits (5 w/ PHY 2048L lab)
+  PHY 2053  College Physics 1 ............................. 4 credits
+
+GROUP B — For Non-Science Majors:
+  ANT 2511  Introduction to Biological Anthropology ........ 3 credits (4 w/ ANT 2511L lab)
+  ETG 2831  Nature: Intersections of Science, Engineering,
+            and the Humanities ............................ 3 credits
+  GLY 2100  The History of Earth and Life .................. 3 credits
+  IDS 2382  Human Mission to Mars .......................... 3 credits
+  MET 2010  Introduction to Weather and Climate ............ 3 credits
+  PSC 2121  Physical Science .............................. 3 credits
+
+GROUP B — For Science Majors:
+  BSC 1011  Biodiversity .................................. 3 credits (4 w/ BSC 1011L lab)
+  CHM 2032  General Chemistry for the Health Sciences ...... 3 credits (4 w/ CHM 2032L lab)
+  (or any natural science course for which one of the above Group A options is the
+  direct prerequisite)
+
+Note: PHY X020 is not offered at FAU but may be transferred from a Florida public institution.
+
+================================================================================
+V. MATHEMATICS (6 credits required; grade of "C" or higher in each)
+================================================================================
+
+Must take two courses; one must be from Group A. Second may be from Group A or B.
+
+GROUP A — State of Florida General Education Core:
+  MAC 1105  College Algebra ................................ 3 credits
+  MAC 2311  Calculus with Analytic Geometry 1 .............. 4 credits
+  MGF 1130  Mathematical Thinking in Context 1 ............. 3 credits
+  STA 2023  Introductory Statistics ........................ 3 credits
+  (or any math course for which one of the above is a direct prerequisite)
+
+GROUP B — FAU Institutional Options:
+  COP 1031C Computer Programming and Data Literacy for Everyone
+            (non-CECS majors only) ........................ 3 credits
+  MAC 1114  Trigonometry .................................. 3 credits
+  MAC 1140  Precalculus Algebra ........................... 3 credits
+  MAC 1147  Precalculus Algebra and Trigonometry ........... 4 credits
+  MAC 2210  Introduction to Calculus with Applications
+            (by permission only) .......................... 4 credits
+  MAC 2233  Methods of Calculus ........................... 3 credits
+  MAC 2241  Life Science Calculus 1 ....................... 4 credits
+  MAC 2312  Calculus with Analytic Geometry 2 .............. 4 credits
+  MAP 2491  Mathematics for Biological Sciences 1 .......... 3 credits
+  MGF 1131  Mathematical Thinking in Context 2 ............. 3 credits
+  PHI 2102  Logic .......................................... 3 credits
+
+================================================================================
+ADDITIONAL ENRICHMENT (6 credits)
+================================================================================
+
+Choose 6 credits from the Humanities, Social Science, or Natural Science subject areas.
+All selections should be made in consultation with an academic advisor.
+
+================================================================================
+MATH PLACEMENT
+================================================================================
+
+All entering freshmen and transfer students with no prior college-level math are
+placed in their first math course based on:
+  - Performance in high school math coursework
+  - High school overall GPA
+  - SAT or ACT scores
+Students without this data must take an online assessment.
+More info: https://www.fau.edu/ugstudies/aleks-ppl/index.php
