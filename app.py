@@ -129,6 +129,16 @@ st.markdown("""
     /* ── Hide Streamlit branding ── */
     #MainMenu, footer, header { visibility: hidden; }
 
+    /* ── Always show sidebar toggle button ── */
+    [data-testid="collapsedControl"] {
+        display: flex !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        background: #003366 !important;
+        border-radius: 0 8px 8px 0 !important;
+        color: white !important;
+    }
+
     /* ── Content centering in wide layout ── */
     .block-container { max-width: 860px; margin: 0 auto; padding-top: 0 !important; }
 </style>
