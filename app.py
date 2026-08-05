@@ -80,10 +80,14 @@ st.markdown("""
     /* ── Chat messages ── */
     [data-testid="stChatMessage"] {
         background: white;
+        color: #1a1a1a;
         border-radius: 14px;
         padding: 0.75rem 1rem;
         margin-bottom: 0.5rem;
         box-shadow: 0 1px 6px rgba(0,0,0,0.07);
+    }
+    [data-testid="stChatMessage"] * {
+        color: #1a1a1a;
     }
 
     /* ── Source badges ── */
