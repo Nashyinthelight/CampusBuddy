@@ -13,9 +13,9 @@ Then saves all the chunks + their vectors, not before wiping the ChromaDB folder
 _____________________
 query.py
 
-Uses HuggingFace to convert user question into vectors and uses database to find similar chucks for answer. If no relevent chunks are found the response defaults to an "I don't know" before the Anthropic AI gets called.
-Sources are required in the ansdwers, so context is made with the file name/category for citing sources
-Chuncks are sent to Anthropic API and uses the question to generate a response
+Uses HuggingFace to convert user question into vectors and uses database to find similar chunks for answers. If no relevent chunks are found the response defaults to an "I don't know" before the Anthropic AI gets called.
+Sources are required in the answers, so context is made with the file name/category for citing sources
+Chunks are sent to Anthropic API and uses the question to generate a response
 
 ____________________
 app.py
